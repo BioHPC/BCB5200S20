@@ -1,2 +1,2 @@
-# BCB5200S20
+# BCB5200
 Intro to Bioinformatics II
