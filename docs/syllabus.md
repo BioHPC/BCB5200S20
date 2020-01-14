@@ -16,7 +16,7 @@ Introduce the broad frontiers of bioinformatics topics from fundamental algorith
 **Where**: Ritter Hall R117 (Linux Lab)
 
 ### Instructor
-Tae-Hyuk (Ted) Ahn, PhD  
+Tae-Hyuk (Ted) Ahn, Ph.D.  
 Assistant Professor  
 Department of Computer Science  
 Program of Bioinformatics and Computational Biology  
@@ -24,6 +24,11 @@ Program of Bioinformatics and Computational Biology
 *Office*: 305 Ritter Hall (Lab: 302 Ritter Hall)  
 *Phone*: (314) 977-3633  
 *Office Hour*: Mon 10 am - 12 pm, Tue 3 pm - 4 pm or appointment by email
+
+### Supplemental Instructor Lead
+Angela Wu
+*Email*: angela.wu.1@slu.edu
+*Weekly Meeting Time*: TBD
 
 ### Credits/Pre-requisites
 **Credits**: 3 Credits
