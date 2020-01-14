@@ -26,9 +26,9 @@ Program of Bioinformatics and Computational Biology
 *Office Hour*: Mon 10 am - 12 pm, Tue 3 pm - 4 pm or appointment by email
 
 ### Supplemental Instructor Lead
-Angela Wu
-*Email*: angela.wu.1@slu.edu
-*Weekly Meeting Time*: TBD
+Angela Wu  
+*Email*: angela.wu.1@slu.edu  
+*Weekly Meeting Time*: TBD  
 
 ### Credits/Pre-requisites
 **Credits**: 3 Credits
