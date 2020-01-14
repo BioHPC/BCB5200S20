@@ -105,7 +105,7 @@ You are unlikely to need cell phones during the course of lecture. Please ensure
 - **Project** (40%)
   - Midterm Proposal Presentation and Midterm Report (15%)
     - Contribution
-  - Final Project Presentation and Final Report (20%)
+  - Final Project Presentation and Final Report (25%)
     - Report should include below sections:
     - Abstract
     - Introduction
