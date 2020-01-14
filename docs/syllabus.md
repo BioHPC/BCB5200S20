@@ -31,12 +31,11 @@ Angela Wu
 *Weekly Meeting Time*: TBD  
 
 ### Credits/Pre-requisites
-**Credits**: 3 Credits
+**Credits**: 3 Credits  
 **Pre-requisites**: The official prerequisite is a C- or better in BCB5200
 
 ### Topical Outline
 Introduction to Bioinformatics I and II are designed to introduce senior/graduate students to the fundamental concepts, methods, and research topics in Bioinformatics for analyzing large and complex biological data. In the course, we will intensely study specific research topics including genome assembly, metagenomics, RNA-Seq analysis, network analysis, and modeling and simulation. In the Introduction to Bioinformatics II course, students will be divided into groups and work on their proposed projects. 
-
 * Introduce new trends of tools and environments for Bioinformatics 
 * Genome assembly and genome/gene annotation
 * Metagenomics
