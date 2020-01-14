@@ -118,7 +118,7 @@ You are unlikely to need cell phones during the course of lecture. Please ensure
   
 - **Lab and Homework Assignments** (40%)
   - There will be labs and assignments in a variety of format such as (but not exclusively) in-class labs and take-home assignments.
-  - We will usually give you a week time frame to submit the homework. Check the due in the online system.
+  - I usually give you a week time frame to submit the homework. Check the due in the online system.
 
 - **Literature Review and Presentation** (15%)
   - Submit literature review report (one paragraph or less than 1 page) for each reference paper with your critiques.
@@ -141,9 +141,8 @@ Student percentage above 70% will result in a grade of C or better.
 Student percentage above 67% will result in a grade of C- or better.  
 Student percentage above 60% will result in a grade of D or better.  
 Student percentage below 60% will result in a grade of F.  
-Any modification to this scale at the end of the year will be in favor of the students. That is we may later decide to award an A to a student who is slightly below the cutoff, but we certainly will not deny an A from someone who is above the cutoff.
 
-No matter what curve I impose, I maintain that the minimum passing grade for this class is a 50% - so if your average is lower than that, you will fail this class.
+There will be no opportunity for “extra credit” to improve grades that have already been earned. Bargaining for grades will not be tolerated.
 
 ### Extra Credit
 In general, extra credit will not be assigned in this class. 
