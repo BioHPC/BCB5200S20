@@ -8,74 +8,81 @@ subtitle: BCB-5250 Intro to Bioinformatics II (Spring 2020)
 
 ### Catalog Description
 
-This course introduces the foundations of algorithmic techniques and analysis, as motivated by biological problems. Topics include dynamic programming, tree and graph algorithms, sequence analysis, clustering and hidden markov models. Motivations include sequence alignment, motif finding, genome assembly, gene prediction, and phylogeny.
+Introduce the broad frontiers of bioinformatics topics from fundamental algorithms to practical tools. The main objective of the course is to provide the student with a solid foundation for conducting further research in bioinformatics and computational biology.
 
 ### Class Meeting Time/Location
 
-**Time**: Tue, Thu 2:15 pm - 3:30 pm  
-**Where**: Ritter Hall 106
+**Time**: Tue, Thu 11 am - 12:15 pm  
+**Where**: Ritter Hall R117 (Linux Lab)
 
 ### Instructor
 Tae-Hyuk (Ted) Ahn, PhD  
 Assistant Professor  
 Department of Computer Science  
 Program of Bioinformatics and Computational Biology  
-*Email*: ted.ahn@slu.edu  
+*Email*: taehyuk.ahn@slu.edu  
 *Office*: 305 Ritter Hall (Lab: 302 Ritter Hall)  
 *Phone*: (314) 977-3633  
-*Office Hour*: Mon 10 am - 11:30 am, Tue 12:30 pm - 2 pm or by appointment
+*Office Hour*: Mon 10 am - 12 pm, Tue 3 pm - 4 pm or appointment by email
 
 ### Credits/Pre-requisites
 **Credits**: 3 Credits
-**Pre-requisites**: The official prerequisite is a C- or better in BCB5200 and BCB5250.
+**Pre-requisites**: The official prerequisite is a C- or better in BCB5200
 
 ### Topical Outline
-Bioinformatics and Computational Biology research is getting bigger and huge, that touches upon many distinct algorithmic and biological area of study. We will try to cover important algorithmic techniques to solve biological questions. Here is a tentative list of topics I would like to cover this semster, but not necessarily in order.
+Introduction to Bioinformatics I and II are designed to introduce senior/graduate students to the fundamental concepts, methods, and research topics in Bioinformatics for analyzing large and complex biological data. In the course, we will intensely study specific research topics including genome assembly, metagenomics, RNA-Seq analysis, network analysis, and modeling and simulation. In the Introduction to Bioinformatics II course, students will be divided into groups and work on their proposed projects. 
 
-* Sequence, string, and tree
-* Algorithms for motif finding
-* Assembly and graph algorithms
-* Optimal sequence alignment and mapping
-* Identifying genes and clustering
-* Hidden Markov Model and applications
+* Introduce new trends of tools and environments for Bioinformatics 
+* Genome assembly and genome/gene annotation
+* Metagenomics
+* RNA-Seq Analysis
+* Biological Modeling and Simulation
 
 ### Student Learning Outcomes
 
-After successfully complete this course, students are expected:
-* Understand underlying fundamental concepts of computational biology.
-* Analyze biological algorithms for asymptotic computation time and memory usage.
-* Describe the fundamental algorithmic types used in biological contexts.
-* Differentiate between sequence alignment algorithms and utilize the one most appropriate for the problem at hand.
-* Utilize complex data structures to improve the efficiency of sequence analysis.
-* Understand the use of discrete mathematical structures for biological algorithms.
+After successfully complete this course, students are expected to:
+* Know fundamental concepts of bioinformatics;
+* Understand underlying basic bioinformatics algorithms;
+* Run bioinformatics applications and tools to study diverse and complex omics data;
+* Recognize how to apply different bioinformatics tools;
+* Understand cutting edge bioinformatics research topics;
+* Write pipeline scripts to automate existing applications;
+* Increase the ability to propose new algorithms and implement software tools;
+* Able to evaluate peer’s research works and understand the importance of peer review process;
+* Study the knowledge including substantive findings, as well as theoretical and methodological contributions to a particular topic in a literature;
+* Practice and improve presentation skills including logical format of contents, ordered in clear manner, effective information, and so on;
+* Conduct a research as a project to answer or analysis of a biological problem as a group for obtaining a successful, high-quality, collaborative experience.
+
 
 ## Course Materials and Resources
 
 ### Textbook
-The primary textbook for this course is "[Bioinformatics Algorithms: An Active Learning Approach (3rd Edition)](http://bioinformaticsalgorithms.com/)" by Phillip Compeau and Pavel Pevzner. The lectures and slides will introduce the topics and cover the majority of the information you will be expected to know. Further resources, where relevant, will be provided via links on this website accompanying the slides or lecture notes. However, you should use this textbook as a resource when you feel you need more information about a particular topic or when you wish to learn the material at a different pace than we cover in the course.  There are other (non-required) textbooks that I personally recommend as references:
+No textbook is required for this course. Assigned materials will be posted on class website. Optional reference books are as below:
 
+- [Bioinformatics and Functional Genomics 2nd or 3rd Edition](https://www.wiley.com/en-us/Bioinformatics+and+Functional+Genomics%2C+3rd+Edition-p-9781118581780) (Jonathan Pevsner)
+- [Bioinformatics Programming Using Python: Practical Programming for Biological Data](http://shop.oreilly.com/product/9780596154516.do) (Mitchell Model)
+- [Essential Bioinformatics 1st Edition](https://www.amazon.com/Essential-Bioinformatics-Jin-Xiong/dp/0521600820) (Jin Xiong)
 - [An Introduction to Bioinformatics Algorithms](https://mitpress.mit.edu/books/introduction-bioinformatics-algorithms) (Neil C. Jones and Pavel A. Pevzner 2004)
+- [Bioinformatics Algorithms: an Active Learning Approach 3rd Edition](http://bioinformaticsalgorithms.com/) (Pavel A. Pevzner and Phillip Compeau)
 - [Algorithms on Strings, Trees, and Sequences: Computer Science and Computational Biology](https://www.cambridge.org/core/books/algorithms-on-strings-trees-and-sequences/F0B095049C7E6EF5356F0A26686C20D3) (Dan Gusfield 1997)
 - [Genome Scale Algorithm Design](http://www.cs.helsinki.fi/group/gsa/book/) (Mäkinen, Belazzougui, Cunial, Tomescu 2015)
 - [Biological Sequence Analysis](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713) (Durbin, Eddy, Krogh, Mitchinson 1998)
 
-If, you're from a discipline where you've not had a formal algorithms course, I strongly recommend you to get
-
-- [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/#book) is free electronic version of Algorithms by Jeff Erickson (CS at UIUC).
-- [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms-third-edition) (Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein 2009 3rd Edition) to be a nice introduction to the algorithms.
-
-
 ### Course website
-[https://biohpc.github.io/BCB5300F19/](https://biohpc.github.io/BCB5300F19/) will be used to announce schedules, slides, assignments, and news.
+[https://biohpc.github.io/BCB5250S20/](https://biohpc.github.io/BCB5250S20/) will be used to announce schedules, slides, assignments, and news.
 
 ### Rosalind
-Students can enroll in the class with this link: [http://rosalind.info/classes/enroll/117859412c/](http://rosalind.info/classes/enroll/117859412c/). It is free to register it. We will use the Rosalind for solving some programming assignments.
+Students can enroll in the class with this link: [http://rosalind.info/classes/enroll/c023b4d3bf/](http://rosalind.info/classes/enroll/c023b4d3bf/). It is free to register it. We will use the Rosalind for solving some programming assignments.
 
-### Git
-Our SLU CS GitLab or [GitHub Classroom](https://classroom.github.com/classrooms) could be used to submit some assignments. The instructor will provide further info if we use the Git system.
+### GitHub
+Please follow my GitHub [https://github.com/BioHPC](https://github.com/BioHPC). Course repository is [https://github.com/BioHPC/BCB5250S20](https://github.com/BioHPC/BCB5250S20) and Couse Webpage is [https://biohpc.github.io/BCB5250S20/](https://biohpc.github.io/BCB5250S20/)
+
+### Jupyter Notebook (Jupyter Lab)
+- [https://jupyter.org/](https://jupyter.org/)
+- [https://jupyterlab.readthedocs.io/en/stable/](https://jupyterlab.readthedocs.io/en/stable/)
 
 ### Blackboard:
-Blackboard could be used to post grades. 
+Blackboard could be only used to post grades. 
 
 ### Email
 Face-to-face contact in class and in office hours is most desirable. Yet email is a convenient form of communication as well. I try to respond to email promptly, including at least once each evening when possible. Email contact over the weekend will likely be more sporadic, although I will be sure to check at least once.
@@ -91,14 +98,30 @@ You are unlikely to need cell phones during the course of lecture. Please ensure
 
 ### Graded Work
 
-- **Exam** (50%)
-  - Midterm (25%): Tentative schedule: Thursday, Oct. 17th, 2019 at 2:15 pm (classroom)
-  - Final Exam (25%): Tentative schedule: Thursday, Dec. 5th, 2019 at 2:15 pm (classroom)
+- **Project** (40%)
+  - Midterm Proposal Presentation and Midterm Report (15%)
+    - Contribution
+  - Final Project Presentation and Final Report (20%)
+    - Report should include below sections:
+    - Abstract
+    - Introduction
+    - Methods
+    - Results
+    - Discussion
+    - References
+    - Contribution
   
-- **Homework** (50%)
-There will be homework due regularly throughout the semester. Some will be written problem sets, due on paper at the start of class. Some will be programming homework through automated coding challenges on the [Rosalind Bioinformatics Textbook Track](http://rosalind.info/problems/list-view/?location=bioinformatics-textbook-track). 
+- **Lab and Homework Assignments** (40%)
+  - There will be labs and assignments in a variety of format such as (but not exclusively) in-class labs and take-home assignments.
+  - We will usually give you a week time frame to submit the homework. Check the due in the online system.
 
-For all homeworks, you are allowed to required to submit individual solutions. However, I encourage all of you to work with another student, as the best way to learn this material is to discuss and problem solve in a small group. Verbatim copying (from another student or from the internet) is forbidden, so please be sure to write up your solutions on your own. (A good rule of thumb is to take notes when working in a group, but then write them up later solo without the notes, and just reference the notes if you forget any details.)
+- **Literature Review and Presentation** (15%)
+  - Submit literature review report (one paragraph or less than 1 page) for each reference paper with your critiques.
+  - Present assigned reference paper and Q&A.
+
+- **Attendance and Class Activities** (5%)
+  - Course attendance is not mandatory, but please try to attend all lectures. If you could not attend the lecture, please inform me in advance. I will check the attendance in multiple random days to give scores. Your class activities will be also evaluated.
+
 
 ### Percentages
 Letter grades will be based on each students overall percentage of awarded points according to the following formula.
@@ -118,12 +141,12 @@ Any modification to this scale at the end of the year will be in favor of the st
 No matter what curve I impose, I maintain that the minimum passing grade for this class is a 50% - so if your average is lower than that, you will fail this class.
 
 ### Extra Credit
-In general, extra credit will not be assigned in this class. The homework assignments provided will be challenging enough for everyone, so I would like for students to focus on the assignments provided.
+In general, extra credit will not be assigned in this class. 
 
-Upon occasion (and solely at the instructor's discretion), some small extra credit activities may be included, either by announcement in class or as part of an assignment. Please keep in mind that the extra credit is unlikely to significantly affect your grade; if you are concerned about your final grade, it is much better to focus your energy on the regular assignment. Extra credit is solely designed to provide an opportunity to students who wish to explore the topics further.
+Upon occasion (and solely at the instructor's discretion), some small extra credit activities may be included, either by announcement in class or as part of an assignment. Please keep in mind that the extra credit is unlikely to significantly affect your grade; if you are concerned about your final grade, it is much better to focus your energy on the regular assignments. Extra credit is solely designed to provide an opportunity to students who wish to explore the topics further.
 
 ### Late Homework
-Late homework will suffer a penalty of 10% for every hour they are late. For example, homework which is submitted one hour late is worth at most 90% of the total credit.
+Late homework will suffer a penalty of 10% for every day they are late. For example, homework which is submitted two days late is worth at most 80% of the total credit.
 
 In unusual circumstances, such as extreme illness or injury (documented by a doctor's note), family emergencies, etc., please contact the instructor as early as possible to arrange accomidations.
 
