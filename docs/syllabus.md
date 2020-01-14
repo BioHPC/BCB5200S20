@@ -107,13 +107,13 @@ You are unlikely to need cell phones during the course of lecture. Please ensure
     - Contribution
   - Final Project Presentation and Final Report (25%)
     - Report should include below sections:
-    - Abstract
-    - Introduction
-    - Methods
-    - Results
-    - Discussion
-    - References
-    - Contribution
+      - Abstract
+      - Introduction
+      - Methods
+      - Results
+      - Discussion
+      - References
+      - Contribution
   
 - **Lab and Homework Assignments** (40%)
   - There will be labs and assignments in a variety of format such as (but not exclusively) in-class labs and take-home assignments.
