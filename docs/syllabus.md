@@ -87,7 +87,7 @@ Please follow my GitHub [https://github.com/BioHPC](https://github.com/BioHPC). 
 - [https://jupyterlab.readthedocs.io/en/stable/](https://jupyterlab.readthedocs.io/en/stable/)
 
 ### Blackboard:
-Blackboard could be only used to post grades. 
+Blackboard could be only used for posting grading scores.
 
 ### Email
 Face-to-face contact in class and in office hours is most desirable. Yet email is a convenient form of communication as well. I try to respond to email promptly, including at least once each evening when possible. Email contact over the weekend will likely be more sporadic, although I will be sure to check at least once.
