@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to BCB5250!
+title: Welcome to BCB05250!
 subtitle: First day of class!
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
