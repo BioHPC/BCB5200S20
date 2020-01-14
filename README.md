@@ -1,4 +1,4 @@
-# BCB5250
+# BCB-5250
 Intro to Bioinformatics II
 
 
