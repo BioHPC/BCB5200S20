@@ -14,5 +14,7 @@ subtitle: Lectures, related material, and assignments
 
 ## Assignments 
 
+## Term Project 
+
 [1]:{{site.url}}/lectures/BCB5250_Lec01.pdf
 [2]:{{site.url}}/lectures/BCB5250_Lec02.pdf
