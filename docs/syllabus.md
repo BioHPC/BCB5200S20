@@ -102,11 +102,16 @@ You are unlikely to need cell phones during the course of lecture. Please ensure
 
 ### Graded Work
 
-- **Project** (40%)
-  - Midterm Proposal Presentation and Midterm Report (15%)
-    - Contribution
+- **Lab and Homework Assignments** (40%)
+  - There will be labs and assignments in a variety of format such as (but not exclusively) in-class labs and take-home assignments.
+  - I usually give you a week time frame to submit the homework. Check the due in the online system.
+
+- **Project** (35%)
+  - Midterm Report (10%)
+    - Project Background and Plan
   - Final Project Presentation and Final Report (25%)
-    - Report should include below sections:
+    - Group Presentation (All should say!) (10%)
+    - Report should include below sections (15%)
       - Abstract
       - Introduction
       - Methods
@@ -114,14 +119,10 @@ You are unlikely to need cell phones during the course of lecture. Please ensure
       - Discussion
       - References
       - Contribution
-  
-- **Lab and Homework Assignments** (40%)
-  - There will be labs and assignments in a variety of format such as (but not exclusively) in-class labs and take-home assignments.
-  - I usually give you a week time frame to submit the homework. Check the due in the online system.
 
-- **Literature Review and Presentation** (15%)
-  - Submit literature review report (one paragraph or less than 1 page) for each reference paper with your critiques.
-  - Present assigned reference paper and Q&A.
+- **Literature Review and Presentation** (20%)
+  - Submit literature review report (one paragraph or less than 1 page) for each reference paper with your critiques. (13%)
+  - Present assigned reference paper and Q&A. (7%)
 
 - **Attendance and Class Activities** (5%)
   - Course attendance is not mandatory, but please try to attend all lectures. If you could not attend the lecture, please inform me in advance. I will check the attendance in multiple random days to give scores. Your class activities will be also evaluated.
