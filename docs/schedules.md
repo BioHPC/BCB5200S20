@@ -48,8 +48,10 @@ subtitle: Lectures, related material, and assignments
    * Presenter: Yassin
 
 ## Assignments 
+  * Programing HW #1: Rosalind Problem 1 @ SLU BCB5250
 
 ## Term Project 
 
 [1]:{{site.url}}/lectures/BCB5250_Lec01.pdf
 [2]:{{site.url}}/lectures/BCB5250_Lec02.pdf
+[3]:{{site.url}}/lectures/BCB5250_Lec03.pdf

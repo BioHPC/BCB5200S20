@@ -103,14 +103,15 @@ You are unlikely to need cell phones during the course of lecture. Please ensure
 ### Graded Work
 
 - **Lab and Homework Assignments** (40%)
-  - There will be labs and assignments in a variety of format such as (but not exclusively) in-class labs and take-home assignments.
+  - Programming homework will be assigned in Rosalind. (10%)
+  - There will be labs and assignments in a variety of format such as (but not exclusively) in-class labs and take-home assignments. (30%)
   - I usually give you a week time frame to submit the homework. Check the due in the online system.
 
 - **Project** (35%)
   - Midterm Report (10%)
-    - Project Background and Plan
+    - Project Idea, Background, Plan, and Preliminary Results
   - Final Project Presentation and Final Report (25%)
-    - Group Presentation (All should say!) (10%)
+    - Group Presentation (Evenly split talk!) (10%)
     - Report should include below sections (15%)
       - Abstract
       - Introduction
