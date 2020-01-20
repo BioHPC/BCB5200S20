@@ -48,7 +48,7 @@ subtitle: Lectures, related material, and assignments
    * Presenter: Yassin
 
 ## Assignments 
-  * Programing HW #1: Rosalind Problem 1 @ SLU BCB5250
+  * Due: 1/24/2020 (Fri) -- Programing HW #1: Rosalind Problem 1 @ SLU BCB5250
 
 ## Term Project 
 
