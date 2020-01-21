@@ -36,7 +36,6 @@ subtitle: Lectures, related material, and assignments
  * 4/23/2020 (Thu): Lecture 27 - Modeling and Simulation ([Lec27 Slides][27]), Presenter (John Reddy)
  * 4/28/2020 (Tue): Lecture 28 - Modeling and Simulation ([Lec28 Slides][28])
  * 4/30/2020 (Thu): Lecture 29 - Modeling and Simulation ([Lec29 Slides][29]), Presenter (Christina)
- * 5/12/2020 (Tue): University's Final Exam Schedule (12:00 - 1:50 pm)
 
 ## Literature Review Paper
  * [Grading rubric for literature review presentation]({{site.url}}/Grading_rubric_Literature_Review_Presentation.pdf)
