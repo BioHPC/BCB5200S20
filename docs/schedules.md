@@ -45,9 +45,13 @@ subtitle: Lectures, related material, and assignments
  * Paper2: [Single-molecule sequencing and chromatin conformation capture enable de novo reference assembly of the domestic goat genome](https://doi.org/10.1038/ng.3802)
    * Review Due: 11:00 am, Thu, Jan 30, 2020
    * Presenter: Yassin
+ * Paper3: [Discovery of a novel coronavirus associated with the recent pneumonia outbreak in humans and its potential bat origin](https://doi.org/10.1101/2020.01.22.914952)
+   * Review Due: 11:00 am, Thu, Feb 6, 2020
+   * Presenter: Huan
 
 ## Assignments 
-  * Due: 1/24/2020 (Fri) -- Programing HW #1: Rosalind Problem 1 @ SLU BCB5250
+  * Due: 1/24/2020 (Fri) -- Programing HW #1 (10pt): Rosalind Problem 1 @ SLU BCB5250
+  * Due: 2/3/2020 (Mon) -- Programing HW #2 (10pt): Rosalind Problem 2 @ SLU BCB5250
 
 ## Term Project 
 
