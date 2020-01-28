@@ -8,7 +8,7 @@ subtitle: Lectures, related material, and assignments
  * 1/16/2020 (Thu): Lecture 2 - Genome Assembly Overview ([Lec2 Slides][2])
  * 1/21/2020 (Tue): Lecture 3 - Genome Assembly Overview ([Lec3 Slides][3])
  * 1/23/2020 (Thu): Lecture 4 - Genome Aseembly Details ([Lec4 Slides][4]), Presenter (David A)
- * 1/28/2020 (Tue): Lecture 5 - Genome Assembly Lab ([Lec5 Slides][5])
+ * 1/28/2020 (Tue): Lecture 5 - Genome Assembly Lab - Data Preprocessing ([Lec5 Slides][5])
  * 1/30/2020 (Thu): Lecture 6 - Genome Assembly Lab ([Lec6 Slides][6]), Presenter (Yassin)
  * 2/4/2020 (Tue): Lecture 7 - Genome Assembly Lab ([Lec7 Slides][7])
  * 2/6/2020 (Thu): Lecture 8 - RNA-Seq Overview ([Lec8 Slides][8])), Presenter (Huan)
@@ -59,3 +59,4 @@ subtitle: Lectures, related material, and assignments
 [2]:{{site.url}}/lectures/BCB5250_Lec02.pdf
 [3]:{{site.url}}/lectures/BCB5250_Lec03.pdf
 [4]:{{site.url}}/lectures/BCB5250_Lec04.pdf
+[5]:{{site.url}}/lectures/BCB5250_Lec05.pdf
