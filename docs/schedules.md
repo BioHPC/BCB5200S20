@@ -61,4 +61,4 @@ subtitle: Lectures, related material, and assignments
 [3]:{{site.url}}/lectures/BCB5250_Lec03.pdf
 [4]:{{site.url}}/lectures/BCB5250_Lec04.pdf
 [5]:{{site.url}}/lectures/BCB5250_Lec05.pdf
-[6]:{{site.url}}/lectures/BCB5250_Lec05.pdf
+[6]:{{site.url}}/lectures/BCB5250_Lec06.pdf
