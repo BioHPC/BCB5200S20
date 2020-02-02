@@ -10,8 +10,8 @@ subtitle: Lectures, related material, and assignments
  * 1/23/2020 (Thu): Lecture 4 - Genome Aseembly Details ([Lec4 Slides][4]), Presenter (David A)
  * 1/28/2020 (Tue): Lecture 5 - Genome Assembly Lab - Data Preprocessing ([Lec5 Slides][5])
  * 1/30/2020 (Thu): Lecture 6 - Genome Assembly Lab ([Lec6 Slides][6]), Presenter (Yassin)
- * 2/4/2020 (Tue): Lecture 7 - Genome Assembly Lab ([Lec7 Slides][7])
- * 2/6/2020 (Thu): Lecture 8 - RNA-Seq Overview ([Lec8 Slides][8])), Presenter (Huan)
+ * 2/4/2020 (Tue): Lecture 7 - Genome Assembly Lab ([Lec6 Slides - Cont][6])
+ * 2/6/2020 (Thu): Lecture 8 - Genome Assembly Lab ([Lec8 Slides][8])), Presenter (Huan)
  * 2/11/2020 (Tue): Lecture 9 - RNA-Seq Overview ([Lec9 Slides][9])
  * 2/13/2020 (Thu): Lecture 10 - RNA-Seq Details ([Lec10 Slides][10]), Presenter (Yujing)
  * 2/18/2020 (Tue): Lecture 11 - Read Mapping ([Lec11 Slides][11])
@@ -52,7 +52,7 @@ subtitle: Lectures, related material, and assignments
 ## Assignments 
   * Due: 1/24/2020 (Fri) -- Programing HW #1 (10pt): Rosalind Problem 1 @ SLU BCB5250
   * Due: 2/3/2020 (Mon) -- Programing HW #2 (10pt): Rosalind Problem 2 @ SLU BCB5250
-  * Due: 2/7/2020 (Fri) -- [Lab HW #1 (Genome Assembly) (50pt)]({{site.url}}/homework/hw1)
+  * Due: 2/9/2020 (Fri) -- [Lab HW #1 (Genome Assembly) (50pt)]({{site.url}}/homework/hw1)
 
 ## Term Project 
 
