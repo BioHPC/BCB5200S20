@@ -13,7 +13,7 @@ subtitle: Lectures, related material, and assignments
  * 2/4/2020 (Tue): Lecture 7 - Genome Assembly Lab ([Lec6 Slides - Cont][6])
  * 2/6/2020 (Thu): Lecture 8 - Genome Assembly Lab ([Lec8 Slides][8])), Presenter (Huan)
  * 2/11/2020 (Tue): Lecture 9 - RNA-Seq Overview ([Lec9 Slides][9])
- * 2/13/2020 (Thu): Lecture 10 - RNA-Seq Details ([Lec10 Slides][10]), Presenter (Yujing)
+ * 2/13/2020 (Thu): Lecture 10 - RNA-Seq Details ([Lec10 Slides][10]), Presenter (John)
  * 2/18/2020 (Tue): Lecture 11 - Read Mapping ([Lec11 Slides][11])
  * 2/20/2020 (Thu): Lecture 12 - Post Alignment ([Lec12 Slides][12]), Presenter (Andrew)
  * 2/25/2020 (Tue): Lecture 13 - Transcriptome Reconstruction ([Lec13 Slides][13])
@@ -33,7 +33,7 @@ subtitle: Lectures, related material, and assignments
  * 4/14/2020 (Tue): Lecture 24 - Modeling and Simulation ([Lec24 Slides][24])
  * 4/16/2020 (Thu): Lecture 25 - Modeling and Simulation ([Lec25 Slides][25]), Presenter (Wanxiang)
  * 4/21/2020 (Tue): Lecture 26 - Modeling and Simulation ([Lec26 Slides][26])
- * 4/23/2020 (Thu): Lecture 27 - Modeling and Simulation ([Lec27 Slides][27]), Presenter (John Reddy)
+ * 4/23/2020 (Thu): Lecture 27 - Modeling and Simulation ([Lec27 Slides][27]), Presenter (Yujing)
  * 4/28/2020 (Tue): Lecture 28 - Modeling and Simulation ([Lec28 Slides][28])
  * 4/30/2020 (Thu): Lecture 29 - Modeling and Simulation ([Lec29 Slides][29]), Presenter (Christina)
 
