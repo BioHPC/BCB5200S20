@@ -48,13 +48,19 @@ subtitle: Lectures, related material, and assignments
  * Paper3: [Discovery of a novel coronavirus associated with the recent pneumonia outbreak in humans and its potential bat origin](https://doi.org/10.1101/2020.01.22.914952)
    * Review Due: 11:00 am, Thu, Feb 6, 2020
    * Presenter: Huan
+ * Paper4: [A survey of best practices for RNA-seq data analysis](https://doi.org/10.1186/s13059-016-0881-8)
+   * Review Due: 11:00 am, Thu, Feb 13, 2020
+   * Presenter: Yujing
+
 
 ## Assignments 
   * Due: 1/24/2020 (Fri) -- Programing HW #1 (10pt): Rosalind Problem 1 @ SLU BCB5250
   * Due: 2/3/2020 (Mon) -- Programing HW #2 (10pt): Rosalind Problem 2 @ SLU BCB5250
-  * Due: 2/9/2020 (Fri) -- [Lab HW #1 (Genome Assembly) (50pt)]({{site.url}}/homework/hw1)
+  * Due: 2/9/2020 (Sun) -- [Lab HW #1 (Genome Assembly) (50pt)]({{site.url}}/homework/hw1)
+  * Due: 2/10/2020 (Mon) -- Programing HW #3 (10pt): Rosalind Problem 3 @ SLU BCB5250
 
 ## Term Project 
+  * [Term Project Description]({{site.url}}/termproject_description)
 
 [1]:{{site.url}}/lectures/BCB5250_Lec01.pdf
 [2]:{{site.url}}/lectures/BCB5250_Lec02.pdf
