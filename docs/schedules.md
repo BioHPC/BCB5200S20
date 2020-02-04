@@ -60,7 +60,7 @@ subtitle: Lectures, related material, and assignments
   * Due: 2/10/2020 (Mon) -- Programing HW #3 (10pt): Rosalind Problem 3 @ SLU BCB5250
 
 ## Term Project 
-  * [Term Project Description]({{site.url}}/termproject_description)
+  * [Term Project Description]({{site.url}}/project/project_description)
 
 [1]:{{site.url}}/lectures/BCB5250_Lec01.pdf
 [2]:{{site.url}}/lectures/BCB5250_Lec02.pdf
