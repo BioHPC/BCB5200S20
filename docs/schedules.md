@@ -48,9 +48,10 @@ subtitle: Lectures, related material, and assignments
  * Paper3: [Discovery of a novel coronavirus associated with the recent pneumonia outbreak in humans and its potential bat origin](https://doi.org/10.1101/2020.01.22.914952)
    * Review Due: 11:00 am, Thu, Feb 6, 2020
    * Presenter: Huan
+   * [More novel corona virus papers (up to Feb 5, 2020)]({{site.url}}/project/corona_papers)
  * Paper4: [A survey of best practices for RNA-seq data analysis](https://doi.org/10.1186/s13059-016-0881-8)
    * Review Due: 11:00 am, Thu, Feb 13, 2020
-   * Presenter: Yujing
+   * Presenter: John
 
 
 ## Assignments 
