@@ -52,6 +52,9 @@ subtitle: Lectures, related material, and assignments
  * Paper4: [A survey of best practices for RNA-seq data analysis](https://doi.org/10.1186/s13059-016-0881-8)
    * Review Due: 11:00 am, Thu, Feb 13, 2020
    * Presenter: John
+ * Paper5: [Transcriptomics technologies](https://doi.org/10.1371/journal.pcbi.1005457)
+   * Review Due: 11:00 am, Thu, Feb 20, 2020
+   * Presenter: Andrew
 
 
 ## Assignments 
