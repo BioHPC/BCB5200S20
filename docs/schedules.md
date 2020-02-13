@@ -13,7 +13,7 @@ subtitle: Lectures, related material, and assignments
  * 2/4/2020 (Tue): Lecture 7 - Genome Assembly Lab ([Lec6 Slides - Cont][6])
  * 2/6/2020 (Thu): Lecture 8 - Genome Assembly Lab ([Lec8 Slides][8])), Presenter (Huan)
  * 2/11/2020 (Tue): Lecture 9 - RNA-Seq Overview ([Lec9 Slides][9])
- * 2/13/2020 (Thu): Lecture 10 - RNA-Seq Details ([Lec10 Slides][10]), Presenter (John)
+ * 2/13/2020 (Thu): Lecture 10 - Aligner, SAM/BAM, GFF, and more ([Lec10 Slides][10]), Presenter (John)
  * 2/18/2020 (Tue): Lecture 11 - Read Mapping ([Lec11 Slides][11])
  * 2/20/2020 (Thu): Lecture 12 - Post Alignment ([Lec12 Slides][12]), Presenter (Andrew)
  * 2/25/2020 (Tue): Lecture 13 - Transcriptome Reconstruction ([Lec13 Slides][13])
@@ -75,3 +75,4 @@ subtitle: Lectures, related material, and assignments
 [6]:{{site.url}}/lectures/BCB5250_Lec06.pdf
 [8]:{{site.url}}/lectures/BCB5250_Lec08.pdf
 [9]:{{site.url}}/lectures/BCB5250_Lec09.pdf
+[10]:{{site.url}}/lectures/BCB5250_Lec10.pdf
