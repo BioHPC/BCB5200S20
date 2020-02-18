@@ -13,8 +13,8 @@ subtitle: Lectures, related material, and assignments
  * 2/4/2020 (Tue): Lecture 7 - Genome Assembly Lab ([Lec6 Slides - Cont][6])
  * 2/6/2020 (Thu): Lecture 8 - Genome Assembly Lab ([Lec8 Slides][8])), Presenter (Huan)
  * 2/11/2020 (Tue): Lecture 9 - RNA-Seq Overview ([Lec9 Slides][9])
- * 2/13/2020 (Thu): Lecture 10 - Aligner, SAM/BAM, GFF, and more ([Lec10 Slides][10]), Presenter (John)
- * 2/18/2020 (Tue): Lecture 11 - Read Mapping ([Lec11 Slides][11])
+ * 2/13/2020 (Thu): Lecture 10 - RNA-Seq: Aligner, Output (SAM) and Visualization ([Lec10 Slides][10]), Presenter (John)
+ * 2/18/2020 (Tue): Lecture 11 - RNA-Seq: GTF/GFF and Splice Aligner ([Lec11 Slides][11])
  * 2/20/2020 (Thu): Lecture 12 - Post Alignment ([Lec12 Slides][12]), Presenter (Andrew)
  * 2/25/2020 (Tue): Lecture 13 - Transcriptome Reconstruction ([Lec13 Slides][13])
  * 2/27/2020 (Thu): Lecture 14 - Expression Quantification ([Lec14 Slides][14]), Presenter (David D)
@@ -22,9 +22,9 @@ subtitle: Lectures, related material, and assignments
  * 3/5/2020 (Thu): Lecture 16 - Functional Analysis ([Lec16 Slides][16), Presenter (Stephen)
  * 3/10/2020 (Tue): No Class (Spring Break)
  * 3/12/2020 (Thu): No Class (Spring Break)
- * 3/17/2020 (Tue): Lecture 17 - Gene Prediction ([Lec17 Slides][17])
- * 3/19/2020 (Thu): Lecture 18 - Genome Annotation ([Lec18 Slides][17]), Presenter (Feiya)
- * 3/24/2020 (Tue): Lecture 19 - Genome Browser ([Lec19 Slides][19])
+ * 3/17/2020 (Tue): Lecture 17 - RNA-Seq: Single Cell Intro ([Lec17 Slides][17])
+ * 3/19/2020 (Thu): Lecture 18 - RNA-Seq: Single Cell Lab ([Lec18 Slides][17]), Presenter (Feiya)
+ * 3/24/2020 (Tue): Lecture 19 - Genome Annotation ([Lec19 Slides][19])
  * 3/26/2020 (Thu): Lecture 20 - Metagenomics ([Lec20 Slides][20]), Presenter (Peter)
  * 3/31/2020 (Tue): Lecture 21 - Metagenomics ([Lec21 Slides][21])
  * 4/2/2020 (Thu): Lecture 22 - Metagenomics ([Lec22 Slides][22]), Presenter (Cory)
@@ -55,6 +55,9 @@ subtitle: Lectures, related material, and assignments
  * Paper5: [Transcriptomics technologies](https://doi.org/10.1371/journal.pcbi.1005457)
    * Review Due: 11:00 am, Thu, Feb 20, 2020
    * Presenter: Andrew
+ * Paper6: [Subtle left-right asymmetry of gene expression profiles in embryonic and foetal human brains](https://doi.org/10.1038/s41598-018-29496-2)
+   * Review Due: 11:00 am, Thu, Feb 27, 2020
+   * Presenter: David D
 
 
 ## Assignments 
@@ -63,6 +66,7 @@ subtitle: Lectures, related material, and assignments
   * Due: 2/9/2020 (Sun) 11pm -- [Lab HW #1 (Genome Assembly) (50pt)]({{site.url}}/homework/hw1)
   * Due: 2/10/2020 (Mon) 11pm -- Programing HW #3 (10pt): Rosalind Problem 4-5 @ SLU BCB5250
   * Due: 2/17/2020 (Mon) 11pm -- Programing HW #4 (10pt): Rosalind Problem 6-7 @ SLU BCB5250
+  * Due: 2/24/2020 (Mon) 11pm -- Programing HW #5 (10pt): Rosalind Problem 8-9 @ SLU BCB5250
 
 ## Term Project 
   * [Term Project Description]({{site.url}}/project/project_description)
@@ -76,3 +80,4 @@ subtitle: Lectures, related material, and assignments
 [8]:{{site.url}}/lectures/BCB5250_Lec08.pdf
 [9]:{{site.url}}/lectures/BCB5250_Lec09.pdf
 [10]:{{site.url}}/lectures/BCB5250_Lec10.pdf
+[11]:{{site.url}}/lectures/BCB5250_Lec11.pdf
