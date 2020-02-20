@@ -15,7 +15,7 @@ subtitle: Lectures, related material, and assignments
  * 2/11/2020 (Tue): Lecture 9 - RNA-Seq Overview ([Lec9 Slides][9])
  * 2/13/2020 (Thu): Lecture 10 - RNA-Seq: Aligner, Output (SAM) and Visualization ([Lec10 Slides][10]), Presenter (John)
  * 2/18/2020 (Tue): Lecture 11 - RNA-Seq: GTF/GFF and Splice Aligner ([Lec11 Slides][11])
- * 2/20/2020 (Thu): Lecture 12 - Post Alignment ([Lec12 Slides][12]), Presenter (Andrew)
+ * 2/20/2020 (Thu): Lecture 12 - RNA-Seq: GTF/GFF and Splice Aligner ([Lec11 Slides][11])
  * 2/25/2020 (Tue): Lecture 13 - Transcriptome Reconstruction ([Lec13 Slides][13])
  * 2/27/2020 (Thu): Lecture 14 - Expression Quantification ([Lec14 Slides][14]), Presenter (David D)
  * 3/3/2020 (Tue): Lecture 15 - Differential Expression ([Lec15 Slides][15])
