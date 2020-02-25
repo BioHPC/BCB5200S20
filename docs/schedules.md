@@ -16,7 +16,7 @@ subtitle: Lectures, related material, and assignments
  * 2/13/2020 (Thu): Lecture 10 - RNA-Seq: Aligner, Output (SAM) and Visualization ([Lec10 Slides][10]), Presenter (John)
  * 2/18/2020 (Tue): Lecture 11 - RNA-Seq: GTF/GFF and Splice Aligner ([Lec11 Slides][11])
  * 2/20/2020 (Thu): Lecture 12 - RNA-Seq: GTF/GFF and Splice Aligner ([Lec11 Slides][11])
- * 2/25/2020 (Tue): Lecture 13 - Transcriptome Reconstruction ([Lec13 Slides][13])
+ * 2/25/2020 (Tue): Lecture 13 - Splice Aligner Lab ([Lec12 Slides][12])
  * 2/27/2020 (Thu): Lecture 14 - Expression Quantification ([Lec14 Slides][14]), Presenter (David D)
  * 3/3/2020 (Tue): Lecture 15 - Differential Expression ([Lec15 Slides][15])
  * 3/5/2020 (Thu): Lecture 16 - Functional Analysis ([Lec16 Slides][16), Presenter (Stephen)
@@ -67,6 +67,7 @@ subtitle: Lectures, related material, and assignments
   * Due: 2/10/2020 (Mon) 11pm -- Programing HW #3 (10pt): Rosalind Problem 4-5 @ SLU BCB5250
   * Due: 2/17/2020 (Mon) 11pm -- Programing HW #4 (10pt): Rosalind Problem 6-7 @ SLU BCB5250
   * Due: 2/24/2020 (Mon) 11pm -- Programing HW #5 (10pt): Rosalind Problem 8-9 @ SLU BCB5250
+  * Due: 3/5/2020 (Mon) 11pm -- Programing HW #6 (10pt): Rosalind Problem 10-11 @ SLU BCB5250
 
 ## Term Project 
   * [Term Project Description]({{site.url}}/project/project_description)
@@ -81,3 +82,4 @@ subtitle: Lectures, related material, and assignments
 [9]:{{site.url}}/lectures/BCB5250_Lec09.pdf
 [10]:{{site.url}}/lectures/BCB5250_Lec10.pdf
 [11]:{{site.url}}/lectures/BCB5250_Lec11.pdf
+[12]:{{site.url}}/lectures/BCB5250_Lec12.pdf
