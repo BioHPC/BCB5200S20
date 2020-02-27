@@ -19,11 +19,11 @@ subtitle: Lectures, related material, and assignments
  * 2/25/2020 (Tue): Lecture 13 - Splice Aligner Lab ([Lec12 Slides][12])
  * 2/27/2020 (Thu): Lecture 14 - Expression Quantification ([Lec13 Slides][13]), Presenter (David D)
  * 3/3/2020 (Tue): Lecture 15 - Differential Expression ([Lec15 Slides][15])
- * 3/5/2020 (Thu): Lecture 16 - Functional Analysis ([Lec16 Slides][16), Presenter (Stephen)
+ * 3/5/2020 (Thu): Lecture 16 - Oxford Nanopore Experiment
  * 3/10/2020 (Tue): No Class (Spring Break)
  * 3/12/2020 (Thu): No Class (Spring Break)
  * 3/17/2020 (Tue): Lecture 17 - RNA-Seq: Single Cell Intro ([Lec17 Slides][17])
- * 3/19/2020 (Thu): Lecture 18 - RNA-Seq: Single Cell Lab ([Lec18 Slides][17]), Presenter (Feiya)
+ * 3/19/2020 (Thu): Lecture 18 - RNA-Seq: Single Cell Lab ([Lec18 Slides][17]), Presenter (Stephen, Feiya)
  * 3/24/2020 (Tue): Lecture 19 - Genome Annotation ([Lec19 Slides][19])
  * 3/26/2020 (Thu): Lecture 20 - Metagenomics ([Lec20 Slides][20]), Presenter (Peter)
  * 3/31/2020 (Tue): Lecture 21 - Metagenomics ([Lec21 Slides][21])
