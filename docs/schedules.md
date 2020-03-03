@@ -19,7 +19,7 @@ subtitle: Lectures, related material, and assignments
  * 2/25/2020 (Tue): Lecture 13 - Splice Aligner Lab ([Lec12 Slides][12])
  * 2/27/2020 (Thu): Lecture 14 - Expression Quantification ([Lec13 Slides][13]), Presenter (David D)
  * 3/3/2020 (Tue): Lecture 15 - Quantificaiton and Differential Expression Analysis ([Lec14 Slides][14])
- * 3/5/2020 (Thu): Lecture 16 - Oxford Nanopore Experiment
+ * 3/5/2020 (Thu): Lecture 16 - Oxford MinION Lab ({{site.url}}/project/MinION)
  * 3/10/2020 (Tue): No Class (Spring Break)
  * 3/12/2020 (Thu): No Class (Spring Break)
  * 3/17/2020 (Tue): Lecture 17 - RNA-Seq: Single Cell Intro ([Lec17 Slides][17]), Presenter (Stephen, TBD)
@@ -65,8 +65,6 @@ subtitle: Lectures, related material, and assignments
    * Review Due: 11:00 am, Thu, Mar 19, 2020
    * Presenter: Feiya
 
-
-
 ## Assignments 
   * Due: 1/24/2020 (Fri) 11pm -- Programing HW #1 (10pt): Rosalind Problem 1 @ SLU BCB5250
   * Due: 2/3/2020 (Mon) 11pm -- Programing HW #2 (10pt): Rosalind Problem 2-3 @ SLU BCB5250
@@ -78,6 +76,10 @@ subtitle: Lectures, related material, and assignments
 
 ## Term Project 
   * [Term Project Description]({{site.url}}/project/project_description)
+
+## Oxford MinION Lab
+  * [Oxford MinION Lab]({{site.url}}/project/MinION)
+
 
 [1]:{{site.url}}/lectures/BCB5250_Lec01.pdf
 [2]:{{site.url}}/lectures/BCB5250_Lec02.pdf
