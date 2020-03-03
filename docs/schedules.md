@@ -19,7 +19,7 @@ subtitle: Lectures, related material, and assignments
  * 2/25/2020 (Tue): Lecture 13 - Splice Aligner Lab ([Lec12 Slides][12])
  * 2/27/2020 (Thu): Lecture 14 - Expression Quantification ([Lec13 Slides][13]), Presenter (David D)
  * 3/3/2020 (Tue): Lecture 15 - Quantificaiton and Differential Expression Analysis ([Lec14 Slides][14])
- * 3/5/2020 (Thu): Lecture 16 - Oxford MinION Lab ({{site.url}}/project/MinION)
+ * 3/5/2020 (Thu): Lecture 16 - [Oxford MinION Lab]({{site.url}}/project/MinION)
  * 3/10/2020 (Tue): No Class (Spring Break)
  * 3/12/2020 (Thu): No Class (Spring Break)
  * 3/17/2020 (Tue): Lecture 17 - RNA-Seq: Single Cell Intro ([Lec17 Slides][17]), Presenter (Stephen, TBD)
