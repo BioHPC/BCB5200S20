@@ -18,9 +18,9 @@ subtitle: Term Project Description
 6. Review paper for any specific topic (genome assembly, genome annotation, metagenomics, RNA-Seq, systems biology, and so on) and relaive researches.
 
 ### Requirements
-1. All groups should submit their midterm report with Project Idea, Background, Plan, and/or anyPreliminary Results. The tentative due is Thu, March 19, 2020.
+1. All groups should submit their midterm report with Project Idea, Background, Plan, and/or anyPreliminary Results. The due is Thu, March 19, 2020.
 2. Each group should submit final report. Their writeup should take the form of a publication-ready research paper, with an introduction, survey of related work, experiments, results, and a bibliography.
-3. Each group is supposed to present their work at the end of the semester. 
+3. Each group is supposed to present their work at the end of the semester. Presentation time: TBD
 
 ### Possible for Manuscript
 1. If your team would like to have a goal for publishing your work, you should discuss with me often.
