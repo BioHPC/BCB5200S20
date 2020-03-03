@@ -18,7 +18,7 @@ subtitle: Lectures, related material, and assignments
  * 2/20/2020 (Thu): Lecture 12 - RNA-Seq: GTF/GFF and Splice Aligner ([Lec11 Slides][11])
  * 2/25/2020 (Tue): Lecture 13 - Splice Aligner Lab ([Lec12 Slides][12])
  * 2/27/2020 (Thu): Lecture 14 - Expression Quantification ([Lec13 Slides][13]), Presenter (David D)
- * 3/3/2020 (Tue): Lecture 15 - Differential Expression ([Lec15 Slides][15])
+ * 3/3/2020 (Tue): Lecture 15 - Quantificaiton and Differential Expression Analysis ([Lec14 Slides][14])
  * 3/5/2020 (Thu): Lecture 16 - Oxford Nanopore Experiment
  * 3/10/2020 (Tue): No Class (Spring Break)
  * 3/12/2020 (Thu): No Class (Spring Break)
@@ -84,3 +84,4 @@ subtitle: Lectures, related material, and assignments
 [11]:{{site.url}}/lectures/BCB5250_Lec11.pdf
 [12]:{{site.url}}/lectures/BCB5250_Lec12.pdf
 [13]:{{site.url}}/lectures/BCB5250_Lec13.pdf
+[14]:{{site.url}}/lectures/BCB5250_Lec14.pdf
