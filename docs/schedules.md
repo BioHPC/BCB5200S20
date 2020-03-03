@@ -22,8 +22,8 @@ subtitle: Lectures, related material, and assignments
  * 3/5/2020 (Thu): Lecture 16 - Oxford Nanopore Experiment
  * 3/10/2020 (Tue): No Class (Spring Break)
  * 3/12/2020 (Thu): No Class (Spring Break)
- * 3/17/2020 (Tue): Lecture 17 - RNA-Seq: Single Cell Intro ([Lec17 Slides][17]), Presenter (Stephen)
- * 3/19/2020 (Thu): Lecture 18 - RNA-Seq: Single Cell Lab ([Lec18 Slides][17]), Presenter (Feiya)
+ * 3/17/2020 (Tue): Lecture 17 - RNA-Seq: Single Cell Intro ([Lec17 Slides][17]), Presenter (Stephen, TBD)
+ * 3/19/2020 (Thu): Lecture 18 - RNA-Seq: Single Cell Lab ([Lec18 Slides][17]), Presenter (Feiya, TBD)
  * 3/24/2020 (Tue): Lecture 19 - Genome Annotation ([Lec19 Slides][19])
  * 3/26/2020 (Thu): Lecture 20 - Metagenomics ([Lec20 Slides][20]), Presenter (Peter)
  * 3/31/2020 (Tue): Lecture 21 - Metagenomics ([Lec21 Slides][21])
@@ -58,6 +58,13 @@ subtitle: Lectures, related material, and assignments
  * Paper6: [Subtle left-right asymmetry of gene expression profiles in embryonic and foetal human brains](https://doi.org/10.1038/s41598-018-29496-2)
    * Review Due: 11:00 am, Thu, Feb 27, 2020
    * Presenter: David D
+ * Paper7: [Current best practices in single‐cell RNA‐seq analysis: a tutorial](https://doi.org/10.15252/msb.20188746)
+   * Review Due: 11:00 am, Tue, Mar 17, 2020
+   * Presenter: Stephen
+ * Paper8: [Single-cell transcriptional analyses of spasmolytic polypeptide-expressing metaplasia arising from acute drug injury and chronic inflammation in the stomach](http://dx.doi.org/10.1136/gutjnl-2019-318930)
+   * Review Due: 11:00 am, Thu, Mar 19, 2020
+   * Presenter: Feiya
+
 
 
 ## Assignments 
