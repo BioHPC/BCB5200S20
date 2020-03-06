@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Oxford MinION Lab
-subtitle: Oxford MinION Lab
+subtitle: Oxford MinION Lab (March 5, 2020 9AM - ??)
 ---
 
 ### Oxford MinION Lab
