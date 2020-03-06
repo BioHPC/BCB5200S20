@@ -15,5 +15,5 @@ subtitle: Oxford MinION Lab (March 5, 2020 9AM - ??)
   - 11am on March 5th in 327 Macelwane.
 7. Genome assembly:
   - [Nanopore sequencing reads improve assembly and gene annotation of the Parochlus steinenii genome](https://www.nature.com/articles/s41598-019-41549-8) will be a good reference.
-8. Genome and taxonmy info
+8. Genome and taxonomy reference paper:
   - [The ecology and evolution of non-domesticatedSaccharomycesspecies](https://onlinelibrary.wiley.com/doi/epdf/10.1002/yea.3040)
