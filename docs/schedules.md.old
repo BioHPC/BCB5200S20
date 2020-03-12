@@ -22,20 +22,20 @@ subtitle: Lectures, related material, and assignments
  * 3/5/2020 (Thu): Lecture 16 - [Oxford MinION Lab]({{site.url}}/project/MinION)
  * 3/10/2020 (Tue): No Class (Spring Break)
  * 3/12/2020 (Thu): No Class (Spring Break)
- * 3/17/2020 (Tue): No Class (Suspension of classes by COVID-19)
- * 3/19/2020 (Thu): No Class (Suspension of classes by COVID-19)
- * 3/24/2020 (Tue): Lecture 19 - 
- * 3/26/2020 (Thu): Lecture 20 - 
- * 3/31/2020 (Tue): Lecture 21 - 
- * 4/2/2020 (Thu): Lecture 22 - 
- * 4/7/2020 (Tue): Lecture 23 - 
+ * 3/17/2020 (Tue): Lecture 17 - RNA-Seq: Single Cell Intro ([Lec17 Slides][17]), Presenter (Stephen, TBD)
+ * 3/19/2020 (Thu): Lecture 18 - RNA-Seq: Single Cell Lab ([Lec18 Slides][17]), Presenter (Feiya, TBD)
+ * 3/24/2020 (Tue): Lecture 19 - Genome Annotation ([Lec19 Slides][19])
+ * 3/26/2020 (Thu): Lecture 20 - Metagenomics ([Lec20 Slides][20]), Presenter (Peter)
+ * 3/31/2020 (Tue): Lecture 21 - Metagenomics ([Lec21 Slides][21])
+ * 4/2/2020 (Thu): Lecture 22 - Metagenomics ([Lec22 Slides][22]), Presenter (Cory)
+ * 4/7/2020 (Tue): Lecture 23 - Metagenomics ([Lec23 Slides][23])
  * 4/9/2020 (Thu): No Class (Easter Break)
- * 4/14/2020 (Tue): Lecture 24 - 
- * 4/16/2020 (Thu): Lecture 25 - 
- * 4/21/2020 (Tue): Lecture 26 - 
- * 4/23/2020 (Thu): Lecture 27 - 
- * 4/28/2020 (Tue): Lecture 28 - 
- * 4/30/2020 (Thu): Lecture 29 - 
+ * 4/14/2020 (Tue): Lecture 24 - Modeling and Simulation ([Lec24 Slides][24])
+ * 4/16/2020 (Thu): Lecture 25 - Modeling and Simulation ([Lec25 Slides][25]), Presenter (Wanxiang)
+ * 4/21/2020 (Tue): Lecture 26 - Modeling and Simulation ([Lec26 Slides][26])
+ * 4/23/2020 (Thu): Lecture 27 - Modeling and Simulation ([Lec27 Slides][27]), Presenter (Yujing)
+ * 4/28/2020 (Tue): Lecture 28 - Modeling and Simulation ([Lec28 Slides][28])
+ * 4/30/2020 (Thu): Lecture 29 - Modeling and Simulation ([Lec29 Slides][29]), Presenter (Christina)
 
 ## Literature Review Paper
  * [Grading rubric for literature review presentation]({{site.url}}/Grading_rubric_Literature_Review_Presentation.pdf)
@@ -59,10 +59,10 @@ subtitle: Lectures, related material, and assignments
    * Review Due: 11:00 am, Thu, Feb 27, 2020
    * Presenter: David D
  * Paper7: [Current best practices in single‐cell RNA‐seq analysis: a tutorial](https://doi.org/10.15252/msb.20188746)
-   * Review Due: 11:00 am, Tue, Mar 24, 2020
+   * Review Due: 11:00 am, Tue, Mar 17, 2020
    * Presenter: Stephen
  * Paper8: [Single-cell transcriptional analyses of spasmolytic polypeptide-expressing metaplasia arising from acute drug injury and chronic inflammation in the stomach](http://dx.doi.org/10.1136/gutjnl-2019-318930)
-   * Review Due: 11:00 am, Thu, Mar 26, 2020
+   * Review Due: 11:00 am, Thu, Mar 19, 2020
    * Presenter: Feiya
 
 ## Assignments 
@@ -72,7 +72,7 @@ subtitle: Lectures, related material, and assignments
   * Due: 2/10/2020 (Mon) 11pm -- Programing HW #3 (10pt): Rosalind Problem 4-5 @ SLU BCB5250
   * Due: 2/17/2020 (Mon) 11pm -- Programing HW #4 (10pt): Rosalind Problem 6-7 @ SLU BCB5250
   * Due: 2/24/2020 (Mon) 11pm -- Programing HW #5 (10pt): Rosalind Problem 8-9 @ SLU BCB5250
-  * Due: 3/23/2020 (Mon) 11pm -- Programing HW #6 (10pt): Rosalind Problem 10-12 @ SLU BCB5250
+  * Due: 3/16/2020 (Mon) 11pm -- Programing HW #6 (10pt): Rosalind Problem 10-12 @ SLU BCB5250
 
 ## Term Project 
   * [Term Project Description]({{site.url}}/project/project_description)
