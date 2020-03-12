@@ -22,20 +22,20 @@ subtitle: Lectures, related material, and assignments
  * 3/5/2020 (Thu): Lecture 16 - [Oxford MinION Lab]({{site.url}}/project/MinION)
  * 3/10/2020 (Tue): No Class (Spring Break)
  * 3/12/2020 (Thu): No Class (Spring Break)
- * 3/17/2020 (Tue): No Class (Suspension of classes by COVID-19)
- * 3/19/2020 (Thu): No Class (Suspension of classes by COVID-19)
- * 3/24/2020 (Tue): Lecture 19 - 
- * 3/26/2020 (Thu): Lecture 20 - 
- * 3/31/2020 (Tue): Lecture 21 - 
- * 4/2/2020 (Thu): Lecture 22 - 
- * 4/7/2020 (Tue): Lecture 23 - 
+ * 3/17/2020 (Tue): <font color="red"> No Class (Suspension of classes by COVID-19) </font>
+ * 3/19/2020 (Thu): <font color="red"> No Class (Suspension of classes by COVID-19) </font>
+ * 3/24/2020 (Tue): Online Lecture
+ * 3/26/2020 (Thu): Online Lecture
+ * 3/31/2020 (Tue): Online Lecture
+ * 4/2/2020 (Thu): Online Lecture
+ * 4/7/2020 (Tue): Online Lecture
  * 4/9/2020 (Thu): No Class (Easter Break)
- * 4/14/2020 (Tue): Lecture 24 - 
- * 4/16/2020 (Thu): Lecture 25 - 
- * 4/21/2020 (Tue): Lecture 26 - 
- * 4/23/2020 (Thu): Lecture 27 - 
- * 4/28/2020 (Tue): Lecture 28 - 
- * 4/30/2020 (Thu): Lecture 29 - 
+ * 4/14/2020 (Tue): Online Lecture
+ * 4/16/2020 (Thu): Online Lecture
+ * 4/21/2020 (Tue): Online Lecture
+ * 4/23/2020 (Thu): Online Lecture
+ * 4/28/2020 (Tue): Online Lecture
+ * 4/30/2020 (Thu): Online Lecture
 
 ## Literature Review Paper
  * [Grading rubric for literature review presentation]({{site.url}}/Grading_rubric_Literature_Review_Presentation.pdf)
