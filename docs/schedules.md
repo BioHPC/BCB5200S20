@@ -24,8 +24,8 @@ subtitle: Lectures, related material, and assignments
  * 3/12/2020 (Thu): No Class (Spring Break)
  * 3/17/2020 (Tue): <font color="red"> No Class (Suspension of classes by COVID-19) </font>
  * 3/19/2020 (Thu): <font color="red"> No Class (Suspension of classes by COVID-19) </font>
- * 3/24/2020 (Tue): Online Lecture
- * 3/26/2020 (Thu): Online Lecture
+ * 3/24/2020 (Tue): Online Lecture 17 - 
+ * 3/26/2020 (Thu): Online Lecture 18 - 
  * 3/31/2020 (Tue): Online Lecture
  * 4/2/2020 (Thu): Online Lecture
  * 4/7/2020 (Tue): Online Lecture
