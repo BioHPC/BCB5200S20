@@ -24,7 +24,7 @@ subtitle: Lectures, related material, and assignments
  * 3/12/2020 (Thu): No Class (Spring Break)
  * 3/17/2020 (Tue): <font color="red"> No Class (Suspension of classes by COVID-19) </font>
  * 3/19/2020 (Thu): <font color="red"> No Class (Suspension of classes by COVID-19) </font>
- * 3/24/2020 (Tue): Online Lecture 17 - 
+ * 3/24/2020 (Tue): Online Lecture 17 - Differential Expression Analysis ([Lec15 Slides][15])
  * 3/26/2020 (Thu): Online Lecture 18 - 
  * 3/31/2020 (Tue): Online Lecture
  * 4/2/2020 (Thu): Online Lecture
@@ -94,3 +94,4 @@ subtitle: Lectures, related material, and assignments
 [12]:{{site.url}}/lectures/BCB5250_Lec12.pdf
 [13]:{{site.url}}/lectures/BCB5250_Lec13.pdf
 [14]:{{site.url}}/lectures/BCB5250_Lec14.pdf
+[15]:{{site.url}}/lectures/BCB5250_Lec15.pdf
