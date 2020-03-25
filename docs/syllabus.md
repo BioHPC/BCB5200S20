@@ -13,7 +13,9 @@ Introduce the broad frontiers of bioinformatics topics from fundamental algorith
 ### Class Meeting Time/Location
 
 **Time**: Tue, Thu 11 am - 12:15 pm  
-**Where**: Ritter Hall R117 (Linux Lab)
+**Where**: Ritter Hall R323  
+**Online lectures via Zoom at the same classtime will begin starting with Monday, March 23 by COVID-19**: Join [https://slu.zoom.us/j/583209984](https://slu.zoom.us/j/583209984) or by phone (Meeting ID: 583 209 984)
+  * Recorded lecture link will be posted at Blackboard, but attending streaming lecture is desired.
 
 ### Instructor
 Tae-Hyuk (Ted) Ahn, Ph.D.  
@@ -24,6 +26,9 @@ Program of Bioinformatics and Computational Biology
 *Office*: 305 Ritter Hall (Lab: 302 Ritter Hall)  
 *Phone*: (314) 977-3633  
 *Office Hour*: Mon 10 am - 12 pm, Tue 3 pm - 4 pm or appointment by email
+* Office hours via Zoom will begin starting with Monday, March 23 by COVID-19
+  * Monday 10am-12pm: visit [https://slu.zoom.us/j/607585387](https://slu.zoom.us/j/607585387) or by phone (Meeting ID: 607 585 387)
+  * Tuesday 3pm-4pm: visit [https://slu.zoom.us/j/802239079](https://slu.zoom.us/j/802239079) or by phone (Meeting ID: 802 239 079)
 
 ### Supplemental Instructor Lead
 Angela Wu  
