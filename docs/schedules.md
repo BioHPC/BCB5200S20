@@ -7,35 +7,35 @@ subtitle: Lectures, related material, and assignments
  * 1/14/2020 (Tue): Lecture 1 - Course introduction, policies, prospective topics & course project ([Lec1 Slides][1])
  * 1/16/2020 (Thu): Lecture 2 - Genome Assembly Overview ([Lec2 Slides][2])
  * 1/21/2020 (Tue): Lecture 3 - Genome Assembly Overview ([Lec3 Slides][3])
- * 1/23/2020 (Thu): Lecture 4 - Genome Aseembly Details ([Lec4 Slides][4]), Presenter (David A)
+ * 1/23/2020 (Thu): Lecture 4 - Genome Aseembly Details ([Lec4 Slides][4]), Presenter 1 (David A)
  * 1/28/2020 (Tue): Lecture 5 - Genome Assembly Lab - Data Preprocessing ([Lec5 Slides][5])
- * 1/30/2020 (Thu): Lecture 6 - Genome Assembly Lab ([Lec6 Slides][6]), Presenter (Yassin)
+ * 1/30/2020 (Thu): Lecture 6 - Genome Assembly Lab ([Lec6 Slides][6]), Presenter 2 (Yassin)
  * 2/4/2020 (Tue): Lecture 7 - Genome Assembly Lab ([Lec6 Slides - Cont][6])
- * 2/6/2020 (Thu): Lecture 8 - Genome Assembly Lab ([Lec8 Slides][8])), Presenter (Huan)
+ * 2/6/2020 (Thu): Lecture 8 - Genome Assembly Lab ([Lec8 Slides][8])), Presenter 3 (Huan)
  * 2/11/2020 (Tue): Lecture 9 - RNA-Seq Overview ([Lec9 Slides][9])
- * 2/13/2020 (Thu): Lecture 10 - RNA-Seq: Aligner, Output (SAM) and Visualization ([Lec10 Slides][10]), Presenter (John)
+ * 2/13/2020 (Thu): Lecture 10 - RNA-Seq: Aligner, Output (SAM) and Visualization ([Lec10 Slides][10]), Presenter 4 (John)
  * 2/18/2020 (Tue): Lecture 11 - RNA-Seq: GTF/GFF and Splice Aligner ([Lec11 Slides][11])
- * 2/20/2020 (Thu): Lecture 12 - RNA-Seq: GTF/GFF and Splice Aligner ([Lec11 Slides][11])
+ * 2/20/2020 (Thu): Lecture 12 - RNA-Seq: GTF/GFF and Splice Aligner ([Lec11 Slides][11]), Presenter 5 (Andrew)
  * 2/25/2020 (Tue): Lecture 13 - Splice Aligner Lab ([Lec12 Slides][12])
- * 2/27/2020 (Thu): Lecture 14 - Expression Quantification ([Lec13 Slides][13]), Presenter (David D)
+ * 2/27/2020 (Thu): Lecture 14 - Expression Quantification ([Lec13 Slides][13]), Presenter 6 (David D)
  * 3/3/2020 (Tue): Lecture 15 - Quantificaiton and Differential Expression Analysis ([Lec14 Slides][14])
  * 3/5/2020 (Thu): Lecture 16 - [Oxford MinION Lab]({{site.url}}/project/MinION)
  * 3/10/2020 (Tue): No Class (Spring Break)
  * 3/12/2020 (Thu): No Class (Spring Break)
  * 3/17/2020 (Tue): <font color="red"> No Class (Suspension of classes by COVID-19) </font>
  * 3/19/2020 (Thu): <font color="red"> No Class (Suspension of classes by COVID-19) </font>
- * 3/24/2020 (Tue): Online Lecture 17 - Differential Expression Analysis ([Lec15 Slides][15])
- * 3/26/2020 (Thu): Online Lecture 18 - 
- * 3/31/2020 (Tue): Online Lecture
- * 4/2/2020 (Thu): Online Lecture
- * 4/7/2020 (Tue): Online Lecture
+ * 3/24/2020 (Tue): Online Lecture 17 - Differential Expression Analysis ([Lec15 Slides][15]), Presenter 7 (Stephen)
+ * 3/26/2020 (Thu): Online Lecture 18 - RNA-Seq Analysis Summary ([Lec16 Slides][16]), Presenter 8 (Feiya)
+ * 3/31/2020 (Tue): Online Lecture - Single Cell RNA-Seq (Guest Lecturer: Scott Lewis)
+ * 4/2/2020 (Thu): Online Lecture - Metagenomics, Presenter 9 (Peter)
+ * 4/7/2020 (Tue): Online Lecture - Metagenomics, Presenter 10 (Cory)
  * 4/9/2020 (Thu): No Class (Easter Break)
  * 4/14/2020 (Tue): Online Lecture
- * 4/16/2020 (Thu): Online Lecture
- * 4/21/2020 (Tue): Online Lecture
- * 4/23/2020 (Thu): Online Lecture
- * 4/28/2020 (Tue): Online Lecture
- * 4/30/2020 (Thu): Online Lecture
+ * 4/16/2020 (Thu): Online Lecture - Metagenomics, Presenter 11 (Wanxiang)
+ * 4/21/2020 (Tue): Online Lecture - Modeling and Simulation, Presenter 12 (Yujing)
+ * 4/23/2020 (Thu): Online Lecture - Modeling and Simulation, Presenter 13 (Christina)
+ * 4/28/2020 (Tue): Online Lecture - Modeling and Simulation,  
+ * 4/30/2020 (Thu): Online Lecture - Final Project Presentation
 
 ## Literature Review Paper
  * [Grading rubric for literature review presentation]({{site.url}}/Grading_rubric_Literature_Review_Presentation.pdf)
@@ -64,6 +64,9 @@ subtitle: Lectures, related material, and assignments
  * Paper8: [Single-cell transcriptional analyses of spasmolytic polypeptide-expressing metaplasia arising from acute drug injury and chronic inflammation in the stomach](http://dx.doi.org/10.1136/gutjnl-2019-318930)
    * Review Due: 11:00 am, Thu, Mar 26, 2020
    * Presenter: Feiya
+ * Paper9: [Characterization of the Gut Microbiome Using 16S or Shotgun Metagenomics](https://dx.doi.org/10.3389%2Ffmicb.2016.00459)
+   * Review Due: 11:00 am, Thu, Apr 2, 2020
+   * Presenter: Peter
 
 ## Assignments 
   * Due: 1/24/2020 (Fri) 11pm -- Programing HW #1 (10pt): Rosalind Problem 1 @ SLU BCB5250
@@ -95,3 +98,4 @@ subtitle: Lectures, related material, and assignments
 [13]:{{site.url}}/lectures/BCB5250_Lec13.pdf
 [14]:{{site.url}}/lectures/BCB5250_Lec14.pdf
 [15]:{{site.url}}/lectures/BCB5250_Lec15.pdf
+[16]:{{site.url}}/lectures/BCB5250_Lec16.pdf
