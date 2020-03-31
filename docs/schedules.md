@@ -89,6 +89,7 @@ subtitle: Lectures, related material, and assignments
   * Due: 2/17/2020 (Mon) 11pm -- Programing HW #4 (10pt): Rosalind Problem 6-7 @ SLU BCB5250
   * Due: 2/24/2020 (Mon) 11pm -- Programing HW #5 (10pt): Rosalind Problem 8-9 @ SLU BCB5250
   * Due: 3/23/2020 (Mon) 11pm -- Programing HW #6 (10pt): Rosalind Problem 10-12 @ SLU BCB5250
+  * Due: 4/6/2020 (Mon) 11pm -- Programing HW #7 (10pt): Rosalind Problem 13-14 @ SLU BCB5250
 
 ## Term Project 
   * [Term Project Description]({{site.url}}/project/project_description)
