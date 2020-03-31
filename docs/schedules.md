@@ -30,12 +30,12 @@ subtitle: Lectures, related material, and assignments
  * 4/2/2020 (Thu): Online Lecture - Metagenomics, Presenter 9 (Peter)
  * 4/7/2020 (Tue): Online Lecture - Metagenomics, Presenter 10 (Cory)
  * 4/9/2020 (Thu): No Class (Easter Break)
- * 4/14/2020 (Tue): Online Lecture
- * 4/16/2020 (Thu): Online Lecture - Metagenomics, Presenter 11 (Wanxiang)
+ * 4/14/2020 (Tue): Online Lecture - Metagenomics
+ * 4/16/2020 (Thu): Online Lecture - Variant Calling, Presenter 11 (Wanxiang)
  * 4/21/2020 (Tue): Online Lecture - Modeling and Simulation, Presenter 12 (Yujing)
  * 4/23/2020 (Thu): Online Lecture - Modeling and Simulation, Presenter 13 (Christina)
- * 4/28/2020 (Tue): Online Lecture - Modeling and Simulation,  
- * 4/30/2020 (Thu): Online Lecture - Final Project Presentation
+ * 4/28/2020 (Tue): Online Lecture - Modeling and Simulation
+ * 4/30/2020 (Thu): Online Lecture - Final Project Group Presentations
 
 ## Literature Review Paper
  * [Grading rubric for literature review presentation]({{site.url}}/Grading_rubric_Literature_Review_Presentation.pdf)
@@ -67,6 +67,19 @@ subtitle: Lectures, related material, and assignments
  * Paper9: [Characterization of the Gut Microbiome Using 16S or Shotgun Metagenomics](https://dx.doi.org/10.3389%2Ffmicb.2016.00459)
    * Review Due: 11:00 am, Thu, Apr 2, 2020
    * Presenter: Peter
+ * Paper10: [Massive metagenomic data analysis using abundance-based machine learning](https://doi.org/10.1186/s13062-019-0242-0)
+   * Review Due: 11:00 am, Tue, Apr 7, 2020
+   * Presenter: Cory
+ * Paper11: [Scalable Open Science Approach for Mutation Calling of Tumor Exomes Using Multiple Genomic Pipelines](https://dx.doi.org/10.1016%2Fj.cels.2018.03.002)
+   * Review Due: 11:00 am, Thu, Apr 16, 2020
+   * Presenter: Wanxiang
+   * Relative paper: [Genome sequencing in the clinic: the past, present, and future of genomic medicine](https://dx.doi.org/10.1152%2Fphysiolgenomics.00046.2018)
+ * Paper12: [Modeling and Simulation Tools: From Systems Biology to Systems Medicine]({{site.url}}/homework/LitRev12.pdf)
+   * Review Due: 11:00 am, Tue, Apr 21, 2020
+   * Presenter: Yujing
+ * Paper13: [A stochastic model of size control in the budding yeast cell cycle](https://doi.org/10.1186/s12859-019-2839-9)
+   * Review Due: 11:00 am, Thu, Apr 23, 2020
+   * Presenter: Christina
 
 ## Assignments 
   * Due: 1/24/2020 (Fri) 11pm -- Programing HW #1 (10pt): Rosalind Problem 1 @ SLU BCB5250
