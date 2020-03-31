@@ -76,7 +76,7 @@ subtitle: Lectures, related material, and assignments
    * Relative paper: [Genome sequencing in the clinic: the past, present, and future of genomic medicine](https://dx.doi.org/10.1152%2Fphysiolgenomics.00046.2018)
  * Paper12: [Modeling and Simulation Tools: From Systems Biology to Systems Medicine]({{site.url}}/homework/LitRev12.pdf)
    * Review Due: 11:00 am, Tue, Apr 21, 2020
-   * Presenter: Yujing
+   * Presenter: Yujing 
  * Paper13: [A stochastic model of size control in the budding yeast cell cycle](https://doi.org/10.1186/s12859-019-2839-9)
    * Review Due: 11:00 am, Thu, Apr 23, 2020
    * Presenter: Christina
