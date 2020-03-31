@@ -2,8 +2,9 @@ library(dplyr)
 library(Seurat)
 library(patchwork)
 
+# Extract the pbmc3k_filtered_gene_bc_matrices.tar.gz
 # Load the PBMC dataset
-pbmc.data <- Read10X(data.dir = "~/Documents/seurat_tutorial/filtered_gene_bc_matrices/hg19/")
+pbmc.data <- Read10X(data.dir = "filtered_gene_bc_matrices/hg19/")
 
 # Initialize the Seurat object with the raw (non-normalized data).
 pbmc <- CreateSeuratObject(counts = pbmc.data, project = "pbmc3k", min.cells = 3, min.features = 200)
