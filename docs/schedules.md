@@ -4,29 +4,29 @@ title: Schedules
 subtitle: Lectures, related material, and assignments
 ---
 ## Lectures
- * 1/14/2020 (Tue): Lecture 1 - Course introduction, policies, prospective topics & course project ([Lec1 Slides][1])
- * 1/16/2020 (Thu): Lecture 2 - Genome Assembly Overview ([Lec2 Slides][2])
- * 1/21/2020 (Tue): Lecture 3 - Genome Assembly Overview ([Lec3 Slides][3])
- * 1/23/2020 (Thu): Lecture 4 - Genome Aseembly Details ([Lec4 Slides][4]), Presenter 1 (David A)
- * 1/28/2020 (Tue): Lecture 5 - Genome Assembly Lab - Data Preprocessing ([Lec5 Slides][5])
- * 1/30/2020 (Thu): Lecture 6 - Genome Assembly Lab ([Lec6 Slides][6]), Presenter 2 (Yassin)
- * 2/4/2020 (Tue): Lecture 7 - Genome Assembly Lab ([Lec6 Slides - Cont][6])
- * 2/6/2020 (Thu): Lecture 8 - Genome Assembly Lab ([Lec8 Slides][8])), Presenter 3 (Huan)
- * 2/11/2020 (Tue): Lecture 9 - RNA-Seq Overview ([Lec9 Slides][9])
- * 2/13/2020 (Thu): Lecture 10 - RNA-Seq: Aligner, Output (SAM) and Visualization ([Lec10 Slides][10]), Presenter 4 (John)
- * 2/18/2020 (Tue): Lecture 11 - RNA-Seq: GTF/GFF and Splice Aligner ([Lec11 Slides][11])
- * 2/20/2020 (Thu): Lecture 12 - RNA-Seq: GTF/GFF and Splice Aligner ([Lec11 Slides][11]), Presenter 5 (Andrew)
- * 2/25/2020 (Tue): Lecture 13 - Splice Aligner Lab ([Lec12 Slides][12])
- * 2/27/2020 (Thu): Lecture 14 - Expression Quantification ([Lec13 Slides][13]), Presenter 6 (David D)
- * 3/3/2020 (Tue): Lecture 15 - Quantificaiton and Differential Expression Analysis ([Lec14 Slides][14])
+ * 1/14/2020 (Tue): Lecture 1 - Course introduction, policies, prospective topics & course project ([Slides][1])
+ * 1/16/2020 (Thu): Lecture 2 - Genome Assembly Overview ([Slides][2])
+ * 1/21/2020 (Tue): Lecture 3 - Genome Assembly Overview ([Slides][3])
+ * 1/23/2020 (Thu): Lecture 4 - Genome Aseembly Details ([Slides][4]), Presenter 1 (David A)
+ * 1/28/2020 (Tue): Lecture 5 - Genome Assembly Lab - Data Preprocessing ([Slides][5])
+ * 1/30/2020 (Thu): Lecture 6 - Genome Assembly Lab ([Slides][6]), Presenter 2 (Yassin)
+ * 2/4/2020 (Tue): Lecture 7 - Genome Assembly Lab ([Slides - Cont][6])
+ * 2/6/2020 (Thu): Lecture 8 - Genome Assembly Lab ([Slides][8])), Presenter 3 (Huan)
+ * 2/11/2020 (Tue): Lecture 9 - RNA-Seq Overview ([Slides][9])
+ * 2/13/2020 (Thu): Lecture 10 - RNA-Seq: Aligner, Output (SAM) and Visualization ([Slides][10]), Presenter 4 (John)
+ * 2/18/2020 (Tue): Lecture 11 - RNA-Seq: GTF/GFF and Splice Aligner ([Slides][11])
+ * 2/20/2020 (Thu): Lecture 12 - RNA-Seq: GTF/GFF and Splice Aligner ([Slides][11]), Presenter 5 (Andrew)
+ * 2/25/2020 (Tue): Lecture 13 - Splice Aligner Lab ([Slides][12])
+ * 2/27/2020 (Thu): Lecture 14 - Expression Quantification ([Slides][13]), Presenter 6 (David D)
+ * 3/3/2020 (Tue): Lecture 15 - Quantificaiton and Differential Expression Analysis ([Slides][14])
  * 3/5/2020 (Thu): Lecture 16 - [Oxford MinION Lab]({{site.url}}/project/MinION)
  * 3/10/2020 (Tue): No Class (Spring Break)
  * 3/12/2020 (Thu): No Class (Spring Break)
  * 3/17/2020 (Tue): <font color="red"> No Class (Suspension of classes by COVID-19) </font>
  * 3/19/2020 (Thu): <font color="red"> No Class (Suspension of classes by COVID-19) </font>
- * 3/24/2020 (Tue): Online Lecture 17 - Differential Expression Analysis ([Lec15 Slides][15]), Presenter 7 (Stephen)
- * 3/26/2020 (Thu): Online Lecture 18 - RNA-Seq Analysis Summary ([Lec16 Slides][16]), Presenter 8 (Feiya)
- * 3/31/2020 (Tue): Online Lecture - Single Cell RNA-Seq (Guest Lecturer: Scott Lewis)
+ * 3/24/2020 (Tue): Online Lecture 17 - Differential Expression Analysis ([Slides][15]), Presenter 7 (Stephen)
+ * 3/26/2020 (Thu): Online Lecture 18 - RNA-Seq Analysis Summary ([Slides][16]), Presenter 8 (Feiya)
+ * 3/31/2020 (Tue): Online Lecture - Single Cell RNA-Seq (Guest Lecturer: Scott Lewis, [Slides][17], [Lab R-Script][17-1], [Lab Data][17-2])
  * 4/2/2020 (Thu): Online Lecture - Metagenomics, Presenter 9 (Peter)
  * 4/7/2020 (Tue): Online Lecture - Metagenomics, Presenter 10 (Cory)
  * 4/9/2020 (Thu): No Class (Easter Break)
@@ -99,3 +99,6 @@ subtitle: Lectures, related material, and assignments
 [14]:{{site.url}}/lectures/BCB5250_Lec14.pdf
 [15]:{{site.url}}/lectures/BCB5250_Lec15.pdf
 [16]:{{site.url}}/lectures/BCB5250_Lec16.pdf
+[17]:{{site.url}}/lectures/BCB5250_Lec17_scRNA-seq.pdf
+[17-1]:{{site.url}}/lectures/Seurat_Clustering_Tutorial.R
+[17-2]:{{site.url}}/lectures/pbmc3k_filtered_gene_bc_matrices.tar.gz
