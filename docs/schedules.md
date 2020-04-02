@@ -27,7 +27,7 @@ subtitle: Lectures, related material, and assignments
  * 3/24/2020 (Tue): Online Lecture 17 - Differential Expression Analysis ([Slides][15]), Presenter 7 (Stephen)
  * 3/26/2020 (Thu): Online Lecture 18 - RNA-Seq Analysis Summary ([Slides][16]), Presenter 8 (Feiya)
  * 3/31/2020 (Tue): Online Lecture - Single Cell RNA-Seq (Guest Lecturer: Scott Lewis, [Slides][17], [Lab R-Script][17-1], [Lab Data][17-2])
- * 4/2/2020 (Thu): Online Lecture - Metagenomics, Presenter 9 (Peter)
+ * 4/2/2020 (Thu): Online Lecture - Metagenomics ([Slides][18]), Presenter 9 (Peter)
  * 4/7/2020 (Tue): Online Lecture - Metagenomics, Presenter 10 (Cory)
  * 4/9/2020 (Thu): No Class (Easter Break)
  * 4/14/2020 (Tue): Online Lecture - Metagenomics
