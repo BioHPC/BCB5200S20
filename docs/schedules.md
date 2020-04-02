@@ -116,3 +116,4 @@ subtitle: Lectures, related material, and assignments
 [17]:{{site.url}}/lectures/BCB5250_Lec17_scRNA-seq.pdf
 [17-1]:{{site.url}}/lectures/Seurat_Clustering_Tutorial.R
 [17-2]:{{site.url}}/lectures/pbmc3k_filtered_gene_bc_matrices.tar.gz
+[18]:{{site.url}}/lectures/BCB5250_Lec18.pdf
