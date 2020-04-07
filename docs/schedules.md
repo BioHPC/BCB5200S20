@@ -27,10 +27,10 @@ subtitle: Lectures, related material, and assignments
  * 3/24/2020 (Tue): Online Lecture 17 - Differential Expression Analysis ([Slides][15]), Presenter 7 (Stephen)
  * 3/26/2020 (Thu): Online Lecture 18 - RNA-Seq Analysis Summary ([Slides][16]), Presenter 8 (Feiya)
  * 3/31/2020 (Tue): Online Lecture - Single Cell RNA-Seq (Guest Lecturer: Scott Lewis, [Slides][17], [Lab R-Script][17-1], [Lab Data][17-2])
- * 4/2/2020 (Thu): Online Lecture - Metagenomics ([Slides][18]), Presenter 9 (Peter)
- * 4/7/2020 (Tue): Online Lecture - Metagenomics, Presenter 10 (Cory)
+ * 4/2/2020 (Thu): Online Lecture - Metagenomics Overview ([Slides][18]), Presenter 9 (Peter)
+ * 4/7/2020 (Tue): Online Lecture - Metagenomics Tools ([Slides][19])
  * 4/9/2020 (Thu): No Class (Easter Break)
- * 4/14/2020 (Tue): Online Lecture - Metagenomics
+ * 4/14/2020 (Tue): Online Lecture - Metagenomics Lab, Presenter 10 (Cory)
  * 4/16/2020 (Thu): Online Lecture - Variant Calling, Presenter 11 (Wanxiang)
  * 4/21/2020 (Tue): Online Lecture - Modeling and Simulation, Presenter 12 (Yujing)
  * 4/23/2020 (Thu): Online Lecture - Modeling and Simulation, Presenter 13 (Christina)
@@ -117,3 +117,4 @@ subtitle: Lectures, related material, and assignments
 [17-1]:{{site.url}}/lectures/Seurat_Clustering_Tutorial.R
 [17-2]:{{site.url}}/lectures/pbmc3k_filtered_gene_bc_matrices.tar.gz
 [18]:{{site.url}}/lectures/BCB5250_Lec18.pdf
+[19]:{{site.url}}/lectures/BCB5250_Lec19.pdf
