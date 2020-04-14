@@ -30,7 +30,7 @@ subtitle: Lectures, related material, and assignments
  * 4/2/2020 (Thu): Online Lecture - Metagenomics Overview ([Slides][18]), Presenter 9 (Peter)
  * 4/7/2020 (Tue): Online Lecture - Metagenomics Tools ([Slides][19])
  * 4/9/2020 (Thu): No Class (Easter Break)
- * 4/14/2020 (Tue): Online Lecture - Metagenomics Lab, Presenter 10 (Cory)
+ * 4/14/2020 (Tue): Online Lecture - Metagenomics Lab, Presenter 10 (Cory) ([Slides][20])
  * 4/16/2020 (Thu): Online Lecture - Variant Calling, Presenter 11 (Wanxiang)
  * 4/21/2020 (Tue): Online Lecture - Modeling and Simulation, Presenter 12 (Yujing)
  * 4/23/2020 (Thu): Online Lecture - Modeling and Simulation, Presenter 13 (Christina)
@@ -119,3 +119,4 @@ subtitle: Lectures, related material, and assignments
 [17-2]:{{site.url}}/lectures/pbmc3k_filtered_gene_bc_matrices.tar.gz
 [18]:{{site.url}}/lectures/BCB5250_Lec18.pdf
 [19]:{{site.url}}/lectures/BCB5250_Lec19.pdf
+[20]:{{site.url}}/lectures/BCB5250_Lec20.pdf
