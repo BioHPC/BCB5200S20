@@ -20,6 +20,9 @@ RNA-Seq Lab: In previous, we worked RNA-Seq lab with chrX_data.tar.gz dataset. N
     - Use fasterq-dump that was mentioned at [Lec12](https://biohpc.github.io/BCB5250S20/lectures/BCB5250_Lec12.pdf)
     - I recommend you to download and install [NCBI SRA Toolkit](https://github.com/ncbi/sra-tools) by yourself, but you can try to add below directory into your .bashrc on hopper machine.
       - /public/ahnt/courses/bcb5250/rna_seq_lab/software/sratoolkit.2.10.5-centos_linux64/bin
+    - There are 4 samples (SRR1066657 - SRR1066660)
+    - Simply, you can download a sample as $ fasterq-dump SRR1066659 
+    - This is not a part of homework, but Consider how to download many files. At the bottom, there is "SRA Run Selector" button to list and select runs to be downloaded. Then, you can make your own simple script to loop the sample run IDs. 
 2. Quality Contol (FASTQC, MultiQC, Trimmomatic)
   - Check the quality of one data (SRR1066657) file using FASTQC.
   - If Per base sequence quality is passed (green checked mark), do not trim and filter all data samples.
