@@ -28,4 +28,4 @@ https://www.yeastgenome.org/dataset/GSE53720
 Run all Linux commands with shell to keep the commands. Then, provide the shell (or can copy/paste into your document)
 
 ### Submit
-Submit the doc (docs, pdf, txt, sh, and so on) to Blackboard.
+Submit all docs, scripts, results into one PDF or multiple files (docs, pdf, txt, sh, zip, or tar.gz) to Blackboard.
