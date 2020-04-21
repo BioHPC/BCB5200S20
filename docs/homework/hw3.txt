@@ -106,3 +106,11 @@ Output files created:
 /faculty/ahnt/Course/bcb5250/2020S/labs/metagenomics_wgs_lab/mgs_tutorial_Oct2017/raw_data_example/demo_fastq/demo_pathabundance.tsv
 /faculty/ahnt/Course/bcb5250/2020S/labs/metagenomics_wgs_lab/mgs_tutorial_Oct2017/raw_data_example/demo_fastq/demo_pathcoverage.tsv
 
+
+
+
+https://groups.google.com/forum/#!topic/humann-users/MSVmXC7DSW0
+
+
+
+$ conda install -c conda-forge glpk
