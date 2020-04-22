@@ -35,7 +35,7 @@ subtitle: Lectures, related material, and assignments
  * 4/21/2020 (Tue): Online Lecture - Modeling and Simulation ([Slides][22]), Presenter 12 (Yujing -- Canceled)
  * 4/23/2020 (Thu): Online Lecture - Modeling and Simulation ([Slides][23]), Presenter 13 (Christina)
  * 4/28/2020 (Tue): Online Lecture - Modeling and Simulation ([Slides][24]), Fianlize Lectures
- * 4/30/2020 (Thu): Online Lecture - Final Project Group Presentations
+ * 4/30/2020 (Thu): Online Lecture - Final Project Group Presentations 
 
 ## Literature Review Paper
  * [Grading rubric for literature review presentation]({{site.url}}/Grading_rubric_Literature_Review_Presentation.pdf)
