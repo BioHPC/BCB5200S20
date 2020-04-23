@@ -97,6 +97,7 @@ subtitle: Lectures, related material, and assignments
 
 ## Term Project 
   * [Term Project Description]({{site.url}}/project/project_description)
+  * [Term Project Presentation and Final Report]({{site.url}}/project/final_report_presentation)
 
 ## Oxford MinION Lab
   * [Oxford MinION Lab]({{site.url}}/project/MinION)
