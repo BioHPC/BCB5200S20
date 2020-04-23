@@ -7,7 +7,7 @@ subtitle: Lab HW #3 (metagenomics lab) (50 points)
 ### Due
 Fri, Apr 24 2020, 11:59 PM
 
-### Homework
+### Homework (Ver 1)
 Metagenomics WGS Lab
 
 Complete the metagenomics lab and answers from Q1 to Q10.
@@ -54,3 +54,11 @@ I emailed you about the error and details. Belows are just compact steps for you
   >demo_fastq/demo_pathabundance.tsv
   >demo_fastq/demo_pathcoverage.tsv
 20. Finally, you can run the Humann2 for our lab.
+
+### If you have software compatibility issues of above lab, you can alternatively run MetaPhlAn2 tutorial [link](https://bitbucket.org/biobakery/biobakery/wiki/metaphlan2). 
+
+### Requirements
+- I request you to run only "Create taxonomic profiles" to get "merged_abundance_table.txt". 
+- Run each step and take a screen shot to prove of your running.
+- There are bullet points of questions in the tutorial. Try to answer those questions.
+- Submit the merged_abundance_table.txt and report file (PDF or docx) containing those screenshots and your answers for the bullet questions. 
