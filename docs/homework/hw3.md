@@ -55,7 +55,7 @@ I emailed you about the error and details. Belows are just compact steps for you
   >demo_fastq/demo_pathcoverage.tsv
 20. Finally, you can run the Humann2 for our lab.
 
-### If you have software compatibility issues of above lab, you can alternatively run MetaPhlAn2 tutorial [link](https://bitbucket.org/biobakery/biobakery/wiki/metaphlan2). 
+### If you have software compatibility issues of above lab, you can alternatively run MetaPhlAn2 tutorial [link](https://bitbucket.org/biobakery/biobakery/wiki/metaphlan2). The software is installed at ahnt@hopper:/public/ahnt/courses/bcb5250/metagenomics_wgs_lab/metaphlan2/. So add the path into your .bashrc file. You can also install it by yourself if you want.
 
 ### Requirements
 - I request you to run only "Create taxonomic profiles" to get "merged_abundance_table.txt". 
