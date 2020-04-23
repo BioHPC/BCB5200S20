@@ -91,8 +91,9 @@ subtitle: Lectures, related material, and assignments
   * Due: 3/23/2020 (Mon) 11pm -- Programing HW #6 (10pt): Rosalind Problem 10-12 @ SLU BCB5250
   * Due: 4/6/2020 (Mon) 11pm -- Programing HW #7 (10pt): Rosalind Problem 13-14 @ SLU BCB5250
   * Due: 4/13/2020 (Mon) 11pm -- Programing HW #8 (10pt): Rosalind Problem 15-17 @ SLU BCB5250
-  * Due: 4/24/2020 (Fri) 11pm -- [Lab HW #2 (RNA-Seq) (50pt)]({{site.url}}/homework/hw2)
-  * Due: 4/24/2020 (Fri) 11pm -- [Lab HW #3 (Metagenomics) (50pt)]({{site.url}}/homework/hw3)
+  * Due: 4/28/2020 (Tue) 11:59pm -- [Lab HW #2 (RNA-Seq) (50pt)]({{site.url}}/homework/hw2)
+  * Due: 4/28/2020 (Tue) 11:59pm -- [Lab HW #3 (Metagenomics) (50pt)]({{site.url}}/homework/hw3)
+  * Due: 4/28/2020 (Tue) 11:59pm -- [HW #4 (Copasi) (50pt)]({{site.url}}/homework/hw4.pdf)
 
 ## Term Project 
   * [Term Project Description]({{site.url}}/project/project_description)
