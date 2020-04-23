@@ -34,7 +34,7 @@ subtitle: Lectures, related material, and assignments
  * 4/16/2020 (Thu): Online Lecture - Variant Calling, Presenter 11 (Wanxiang) ([Slides][21])
  * 4/21/2020 (Tue): Online Lecture - Modeling and Simulation 1 ([Slides][22]), Presenter 12 (Yujing -- Canceled)
  * 4/23/2020 (Thu): Online Lecture - Modeling and Simulation 2 ([Slides][23], [Lab: COPASI file][23-1]), Presenter 13 (Christina)
- * 4/28/2020 (Tue): Online Lecture - Modeling and Simulation 3 ([Slides][24]), Fianlize Lectures
+ * 4/28/2020 (Tue): Online Lecture - Modeling and Simulation 3 ([Slides][24]), Finalize Lectures (other important topics in Bioinformatics)
  * 4/30/2020 (Thu): Online Lecture - Final Project Group Presentations 
 
 ## Literature Review Paper
