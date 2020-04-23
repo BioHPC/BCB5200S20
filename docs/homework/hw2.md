@@ -5,7 +5,11 @@ subtitle: Lab HW #2 (RNA-Seq Analysis) (50 points)
 ---
 
 ### Due
-Fri, Apr 24 2020, 11:59 PM
+Tue, Apr 28 2020, 11:59 PM
+
+## Choose either Ver 1 (this year new homework) or Ver 2 (last year homework)
+
+## Ver-1
 
 ### Homework
 RNA-Seq Lab: In previous, we worked RNA-Seq lab with chrX_data.tar.gz dataset. Now I request you to complete this homework using another yeast dataset with steps.
@@ -42,3 +46,15 @@ Run all Linux commands with shell to keep the commands. Then, provide the shell 
 
 ### Submit
 Submit all docs, scripts, results into one PDF or multiple files (docs, pdf, txt, sh, zip, or tar.gz) to Blackboard.
+
+
+
+## Ver-2
+
+#### Details: [HW2_RNA-Seq_V2.pdf](HW2_RNA-Seq_V2.pdf)
+#### Ref: [Texedo2.pdf](Texedo2.pdf)
+#### Ballgown R script: [ballgown.R](ballgown.R)
+#### Submit
+Submit all docs, scripts, results into one PDF or multiple files (docs, pdf, txt, sh, zip, or tar.gz) to Blackboard.
+
+
