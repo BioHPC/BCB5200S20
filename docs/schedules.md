@@ -32,9 +32,9 @@ subtitle: Lectures, related material, and assignments
  * 4/9/2020 (Thu): No Class (Easter Break)
  * 4/14/2020 (Tue): Online Lecture - Metagenomics Lab, Presenter 10 (Cory) ([Slides][20])
  * 4/16/2020 (Thu): Online Lecture - Variant Calling, Presenter 11 (Wanxiang) ([Slides][21])
- * 4/21/2020 (Tue): Online Lecture - Modeling and Simulation ([Slides][22]), Presenter 12 (Yujing -- Canceled)
- * 4/23/2020 (Thu): Online Lecture - Modeling and Simulation ([Slides][23]), Presenter 13 (Christina)
- * 4/28/2020 (Tue): Online Lecture - Modeling and Simulation ([Slides][24]), Fianlize Lectures
+ * 4/21/2020 (Tue): Online Lecture - Modeling and Simulation 1 ([Slides][22]), Presenter 12 (Yujing -- Canceled)
+ * 4/23/2020 (Thu): Online Lecture - Modeling and Simulation 2 ([Slides][23], [Lab: COPASI file][23-1]), Presenter 13 (Christina)
+ * 4/28/2020 (Tue): Online Lecture - Modeling and Simulation 3 ([Slides][24]), Fianlize Lectures
  * 4/30/2020 (Thu): Online Lecture - Final Project Group Presentations 
 
 ## Literature Review Paper
@@ -125,4 +125,5 @@ subtitle: Lectures, related material, and assignments
 [21]:{{site.url}}/lectures/BCB5250_Lec21.pdf
 [22]:{{site.url}}/lectures/BCB5250_Lec22.pdf
 [23]:{{site.url}}/lectures/BCB5250_Lec23.pdf
+[23-1]:{{site.url}}/lectures/IrreIsomer.cps
 [24]:{{site.url}}/lectures/BCB5250_Lec24.pdf
