@@ -34,7 +34,7 @@ RNA-Seq Lab: In previous, we worked RNA-Seq lab with chrX_data.tar.gz dataset. N
 3. Alignment (STAR)
   - Indexing
     - Download the reference from [link](http://sgd-archive.yeastgenome.org/sequence/S288C_reference/genome_releases/S288C_reference_genome_R64-2-1_20150113.tgz)
-    - In the directory, there is a reference genome with a filename S288C_reference_sequence_R64-2-1_20150113.fsa. However, the chromosome names of this genome and gene set (saccharomyces_cerevisiae_R64-2-1_20150113.gff3) do not agree each other. The genome has a format of >ref|NC_001133| [org=Saccharomyces cerevisiae] [strain=S288C] [moltype=genomic] [chromosome=I] and the geneset has a format of chrI. 
+    - In the directory, there is a reference genome with a filename S288C_reference_sequence_R64-2-1_20150113.fsa. However, the chromosome names of this genome and gene set (saccharomyces_cerevisiae_R64-2-1_20150113.gff3) do not agree each other. The genome has a format of >ref NC_001133 [org=Saccharomyces cerevisiae] [strain=S288C] [moltype=genomic] [chromosome=I] and the geneset has a format of chrI. 
     - Also, the GFF file has a FASTA sequences attached at the end.
     - So, you can split the FASTA sequences as a reference that has the same format of the chromosome names.
     - If you use the GFF3 to index genome using STAR, you will get error as "Fatal INPUT FILE error, no exon lines ...". This GFF3 format is not compatible with STAR. So, convert the GFF file into GTF, for instance you can use gffread from Cufflinks package to convert gff to gtf: $ gffread -T In.gff3 -o Out.gtf
