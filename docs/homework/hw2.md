@@ -47,7 +47,7 @@ RNA-Seq Lab: In previous, we worked RNA-Seq lab with chrX_data.tar.gz dataset. N
     - If you get the memory insufficient error, increase it using --limitBAMsortRAM 50000000000
     - For you, I provide the run shell script ([link](STAR_run_ncbi.sh))
 
-4. Quantificaiton (featureCounts)
+- Quantificaiton (featureCounts)
   - For me one sample, run the featureCounts three times as below
     - Default (without multimapping and overlapping)
     - -M option (allowing multimapping)
@@ -56,11 +56,11 @@ RNA-Seq Lab: In previous, we worked RNA-Seq lab with chrX_data.tar.gz dataset. N
   - Then, you should get the results like this [link](featureCounts_log.txt). SRR1066657.fastq results are 37%, 47%, and 80%.
   - Run for all samples using default option (without -M and -O) option for differentail expression analysis. 
   - For differentail expression analysis, let us just use the default default (without multimapping and overlapping). Run all samples with the default option.
-5. Differential Expression analysis (DESeq2, input will be from both by Step 4)
+- Differential Expression analysis (DESeq2, input will be from both by Step 4)
   - I just want you to check the two groups (report any meaningful plot like PCA plot) and report differentially expressed genes by P-value (top 50)
   - [This kind of reference](https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2018/RNASeq2018/html/04_DE_analysis_with_DESeq2.nb.html) will be useful for you, but check the [DESeq2 guide](https://bioc.ism.ac.jp/packages/2.14/bioc/vignettes/DESeq2/inst/doc/beginner.pdf) for any further analysis as you want.
-6. Your comments
-7. (Optional for +10 points) Run Salmon for quantification and reanlayze the differential expression using DESeq2. Provide the comparision results. 
+- Your comments
+- (Optional for +10 points) Run Salmon for quantification and reanlayze the differential expression using DESeq2. Provide the comparision results. 
 
 ### Important
 Run all Linux commands with shell to keep the commands. Then, provide the shell (or can copy/paste into your document)
