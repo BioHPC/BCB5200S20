@@ -33,20 +33,28 @@ RNA-Seq Lab: In previous, we worked RNA-Seq lab with chrX_data.tar.gz dataset. N
   - If 3 prime end has very low quality sequences, then trim and filter the low quality sequences using Trimmomatic with using a sliding window of size 4 that will remove bases if their phred score is below 20 and also discard any reads that do not have at least 25 bases remaining after this trimming step. 
 3. Alignment (STAR)
   - Indexing
-    - Download the reference from [link](http://sgd-archive.yeastgenome.org/sequence/S288C_reference/genome_releases/S288C_reference_genome_R64-2-1_20150113.tgz)
-    - In the directory, there is a reference genome with a filename S288C_reference_sequence_R64-2-1_20150113.fsa. However, the chromosome names of this genome and gene set (saccharomyces_cerevisiae_R64-2-1_20150113.gff3) do not agree each other. The genome has a format of >ref NC_001133 [org=Saccharomyces cerevisiae] [strain=S288C] [moltype=genomic] [chromosome=I] and the geneset has a format of chrI. 
-    - Also, the GFF file has a FASTA sequences attached at the end.
-    - So, you can split the FASTA sequences as a reference that has the same format of the chromosome names.
-    - If you use the GFF3 to index genome using STAR, you will get error as "Fatal INPUT FILE error, no exon lines ...". This GFF3 format is not compatible with STAR. So, convert the GFF file into GTF, for instance you can use gffread from Cufflinks package to convert gff to gtf: $ gffread -T In.gff3 -o Out.gtf
-    - For you, I worked above things and proivde genome ([link](saccharomyces_cerevisiae_R64-2-1_20150113.fasta) and GTF gene set ([link](saccharomyces_cerevisiae_R64-2-1_20150113.gtf)).
+    - SGD genome and gene set [link](http://sgd-archive.yeastgenome.org/sequence/S288C_reference/genome_releases/S288C_reference_genome_R64-2-1_20150113.tgz) is not working well with this pipeline. A few reasons, but shortly (1) genome fasta chromosome IDs do not agree with gene set, (2) gene set does not have Exon info. So, let us use NCBI reference as below.
+    - Using wget, download the reference [genome](https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/146/045/GCF_000146045.2_R64/GCF_000146045.2_R64_genomic.fna.gz) and [GFF gene set](https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/146/045/GCF_000146045.2_R64/GCF_000146045.2_R64_rna.fna.gz). I created ncbi_ref directory, moved the files to the directory, and extracted them using unzip.
+    - Create star_indexes_ncbi directory and save the index files to the directory.
     - Because this is a small genome, --genomeSAindexNbases value is good with 10, not default 12.
     - I set --sjdbOverhang 49. Why? Check the manual of STAR and read length of the dataset.
-    - For you, I provide the index shell script ([link](STAR_index.sh))
+    - For you, I provide the index shell script ([link](STAR_index_ncbi.sh))
+    - I used 12 threads and it tooks 1 min. 
   - Mapping
-    - Using default options and parameters is OK. Check the slides or STAR manual.
+    - Below is for running only one sample. You should do for all samples.
+    - Create a directory for the output. I created star_align_ncbi directory.
+    - Align the sample to the reference indexes.
     - If you get the memory insufficient error, increase it using --limitBAMsortRAM 50000000000
+    - For you, I provide the run shell script ([link](STAR_run_ncbi.sh))
 4. Quantificaiton (featureCounts)
-  - Using default options and parameters is OK.
+  - For me one sample, run the featureCounts three times as below
+    - Default (without multimapping and overlapping)
+    - -M option (allowing multimapping)
+    - -O option (allowing overlapping)
+  - For you, I provide the shell script ([link](featureCounts_ncbi.sh))
+  - Then, you should get the results like this [link](featureCounts_log.txt). SRR1066657.fastq results are 37%, 47%, and 80%.
+  - Run for all samples using default option (without -M and -O) option for differentail expression analysis. 
+  - For differentail expression analysis, let us just use the default default (without multimapping and overlapping). Run all samples with the default option.
 5. Differential Expression analysis (DESeq2, input will be from both by Step 4)
   - I just want you to check the two groups (report any meaningful plot like PCA plot) and report differentially expressed genes by P-value (top 50)
   - [This kind of reference](https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2018/RNASeq2018/html/04_DE_analysis_with_DESeq2.nb.html) will be useful for you, but check the [DESeq2 guide](https://bioc.ism.ac.jp/packages/2.14/bioc/vignettes/DESeq2/inst/doc/beginner.pdf) for any further analysis as you want.

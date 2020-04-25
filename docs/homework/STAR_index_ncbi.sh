@@ -1,0 +1,1 @@
+STAR --runMode genomeGenerate --genomeDir ./star_indexes_ncbi --genomeFastaFiles ./ncbi_ref/GCF_000146045.2_R64_genomic.fna --runThreadN 12 --sjdbGTFfile ./ncbi_ref/GCF_000146045.2_R64_genomic.gtf --sjdbOverhang 49 --genomeSAindexNbases 10

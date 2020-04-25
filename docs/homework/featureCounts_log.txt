@@ -1,0 +1,136 @@
+
+        ==========     _____ _    _ ____  _____  ______          _____
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+          v2.0.0
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 1 BAM file                                       ||
+||                           o SRR1066657Aligned.sortedByCoord.out.bam        ||
+||                                                                            ||
+||             Output file : SRR1066657.txt                                   ||
+||                 Summary : SRR1066657.txt.summary                           ||
+||              Annotation : GCF_000146045.2_R64_genomic.gtf (GTF)            ||
+||      Dir for temp files : feature_count_ncbi                               ||
+||                                                                            ||
+||                 Threads : 12                                               ||
+||                   Level : meta-feature level                               ||
+||              Paired-end : yes                                              ||
+||      Multimapping reads : not counted                                      ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+||          Chimeric reads : counted                                          ||
+||        Both ends mapped : not required                                     ||
+||                                                                            ||
+\\============================================================================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file GCF_000146045.2_R64_genomic.gtf ...                   ||
+||    Features : 6760                                                         ||
+||    Meta-features : 6420                                                    ||
+||    Chromosomes/contigs : 17                                                ||
+||                                                                            ||
+|| Process BAM file SRR1066657Aligned.sortedByCoord.out.bam...                ||
+||    WARNING: Single-end reads were found.                                   ||
+||    Total alignments : 110151897                                            ||
+||    Successfully assigned alignments : 40980302 (37.2%)                     ||
+||    Running time : 1.63 minutes                                             ||
+||                                                                            ||
+||                                                                            ||
+|| Summary of counting results can be found in file "feature_count_ncbi/SRR1  ||
+|| 066657.txt.summary"                                                        ||
+||                                                                            ||
+\\============================================================================//
+
+
+        ==========     _____ _    _ ____  _____  ______          _____
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+          v2.0.0
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 1 BAM file                                       ||
+||                           o SRR1066657Aligned.sortedByCoord.out.bam        ||
+||                                                                            ||
+||             Output file : SRR1066657.multimap.txt                          ||
+||                 Summary : SRR1066657.multimap.txt.summary                  ||
+||              Annotation : GCF_000146045.2_R64_genomic.gtf (GTF)            ||
+||      Dir for temp files : feature_count_ncbi                               ||
+||                                                                            ||
+||                 Threads : 12                                               ||
+||                   Level : meta-feature level                               ||
+||              Paired-end : yes                                              ||
+||      Multimapping reads : counted                                          ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+||          Chimeric reads : counted                                          ||
+||        Both ends mapped : not required                                     ||
+||                                                                            ||
+\\============================================================================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file GCF_000146045.2_R64_genomic.gtf ...                   ||
+||    Features : 6760                                                         ||
+||    Meta-features : 6420                                                    ||
+||    Chromosomes/contigs : 17                                                ||
+||                                                                            ||
+|| Process BAM file SRR1066657Aligned.sortedByCoord.out.bam...                ||
+||    WARNING: Single-end reads were found.                                   ||
+||    Total alignments : 110151897                                            ||
+||    Successfully assigned alignments : 51299789 (46.6%)                     ||
+||    Running time : 0.20 minutes                                             ||
+||                                                                            ||
+||                                                                            ||
+|| Summary of counting results can be found in file "feature_count_ncbi/SRR1  ||
+|| 066657.multimap.txt.summary"                                               ||
+||                                                                            ||
+\\============================================================================//
+
+
+        ==========     _____ _    _ ____  _____  ______          _____
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+          v2.0.0
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 1 BAM file                                       ||
+||                           o SRR1066657Aligned.sortedByCoord.out.bam        ||
+||                                                                            ||
+||             Output file : SRR1066657.multimap.overlap.txt                  ||
+||                 Summary : SRR1066657.multimap.overlap.txt.summary          ||
+||              Annotation : GCF_000146045.2_R64_genomic.gtf (GTF)            ||
+||      Dir for temp files : feature_count_ncbi                               ||
+||                                                                            ||
+||                 Threads : 12                                               ||
+||                   Level : meta-feature level                               ||
+||              Paired-end : yes                                              ||
+||      Multimapping reads : counted                                          ||
+|| Multi-overlapping reads : counted                                          ||
+||   Min overlapping bases : 1                                                ||
+|| Process BAM file SRR1066657Aligned.sortedByCoord.out.bam...                ||
+||    WARNING: Single-end reads were found.                                   ||
+||    Total alignments : 110151897                                            ||
+||    Successfully assigned alignments : 88319466 (80.2%)                     ||
+||    Running time : 0.20 minutes                                             ||
+||                                                                            ||
+||                                                                            ||
+|| Summary of counting results can be found in file "feature_count_ncbi/SRR1  ||
+|| 066657.multimap.overlap.txt.summary"                                       ||
+||                                                                            ||
+\\============================================================================//
