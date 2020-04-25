@@ -44,6 +44,7 @@ RNA-Seq Lab: In previous, we worked RNA-Seq lab with chrX_data.tar.gz dataset. N
     - For you, I provide the index shell script ([link](STAR_index.sh))
   - Mapping
     - Using default options and parameters is OK. Check the slides or STAR manual.
+    - If you get the memory insufficient error, increase it using --limitBAMsortRAM 50000000000
 4. Quantificaiton (featureCounts)
   - Using default options and parameters is OK.
 5. Differential Expression analysis (DESeq2, input will be from both by Step 4)
