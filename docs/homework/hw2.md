@@ -16,10 +16,10 @@ RNA-Seq Lab: In previous, we worked RNA-Seq lab with chrX_data.tar.gz dataset. N
 
 1. The dataset and experiment: RNA-seq Experiments from Calorie Restricted and Non-Restricted WT Yeast
 - Paper and dataset:
-    - Paper Link: [http://dx.doi.org/10.1016/j.cmet.2014.04.004](http://dx.doi.org/10.1016/j.cmet.2014.04.004)
-    - SGD dataset link: [https://www.yeastgenome.org/dataset/GSE53720](https://www.yeastgenome.org/dataset/GSE53720)
-    - GEO ID: [GSE53720](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE53720)
-    - This is not a paired-end data set
+	- Paper Link: [http://dx.doi.org/10.1016/j.cmet.2014.04.004](http://dx.doi.org/10.1016/j.cmet.2014.04.004)
+	- SGD dataset link: [https://www.yeastgenome.org/dataset/GSE53720](https://www.yeastgenome.org/dataset/GSE53720)
+	- GEO ID: [GSE53720](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE53720)
+	- This is not a paired-end data set
 - How to download the dataset?
     - Use fasterq-dump that was mentioned at [Lec12](https://biohpc.github.io/BCB5250S20/lectures/BCB5250_Lec12.pdf)
     - I recommend you to download and install [NCBI SRA Toolkit](https://github.com/ncbi/sra-tools) by yourself, but you can try to add below directory into your .bashrc on hopper machine.
