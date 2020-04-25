@@ -33,7 +33,7 @@ RNA-Seq Lab: In previous, we worked RNA-Seq lab with chrX_data.tar.gz dataset. N
   - If 3 prime end has very low quality sequences, then trim and filter the low quality sequences using Trimmomatic with using a sliding window of size 4 that will remove bases if their phred score is below 20 and also discard any reads that do not have at least 25 bases remaining after this trimming step. 
 - Alignment (STAR)
   - Indexing
-    - SGD genome and gene set [link](http://sgd-archive.yeastgenome.org/sequence/S288C_reference/genome_releases/S288C_reference_genome_R64-2-1_20150113.tgz) is not working well with this pipeline. A few reasons, but shortly (1) genome fasta chromosome IDs do not agree with gene set, (2) gene set does not have Exon info. So, let us use NCBI reference as below.
+    - SGD genome and gene set ([link](http://sgd-archive.yeastgenome.org/sequence/S288C_reference/genome_releases/S288C_reference_genome_R64-2-1_20150113.tgz)) is not working well with this pipeline. A few reasons, but shortly (1) genome fasta chromosome IDs do not agree with gene set, (2) gene set does not have Exon info. So, let us use NCBI reference as below.
     - Using wget, download the reference [genome](https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/146/045/GCF_000146045.2_R64/GCF_000146045.2_R64_genomic.fna.gz) and [GFF gene set](https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/146/045/GCF_000146045.2_R64/GCF_000146045.2_R64_rna.fna.gz). I created ncbi_ref directory, moved the files to the directory, and extracted them using unzip.
     - Create star_indexes_ncbi directory and save the index files to the directory.
     - Because this is a small genome, --genomeSAindexNbases value is good with 10, not default 12.
