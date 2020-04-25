@@ -32,14 +32,25 @@ RNA-Seq Lab: In previous, we worked RNA-Seq lab with chrX_data.tar.gz dataset. N
   - If Per base sequence quality is passed (green checked mark), do not trim and filter all data samples.
   - If 3 prime end has very low quality sequences, then trim and filter the low quality sequences using Trimmomatic with using a sliding window of size 4 that will remove bases if their phred score is below 20 and also discard any reads that do not have at least 25 bases remaining after this trimming step. 
 3. Alignment (STAR)
-  - Using default options and parameters is OK.
-  - Download the reference from [link](http://sgd-archive.yeastgenome.org/sequence/S288C_reference/genome_releases/S288C_reference_genome_R64-2-1_20150113.tgz)
-4. Quantificaiton (featureCounts, Salmon)
+  - Indexing
+    - Download the reference from [link](http://sgd-archive.yeastgenome.org/sequence/S288C_reference/genome_releases/S288C_reference_genome_R64-2-1_20150113.tgz)
+    - In the directory, there is a reference genome with a filename S288C_reference_sequence_R64-2-1_20150113.fsa. However, the chromosome names of this genome and gene set (saccharomyces_cerevisiae_R64-2-1_20150113.gff3) do not agree each other. The genome has a format of >ref|NC_001133| [org=Saccharomyces cerevisiae] [strain=S288C] [moltype=genomic] [chromosome=I] and the geneset has a format of chrI. 
+    - Also, the GFF file has a FASTA sequences attached at the end.
+    - So, you can split the FASTA sequences as a reference that has the same format of the chromosome names.
+    - If you use the GFF3 to index genome using STAR, you will get error as "Fatal INPUT FILE error, no exon lines ...". This GFF3 format is not compatible with STAR. So, convert the GFF file into GTF, for instance you can use gffread from Cufflinks package to convert gff to gtf: $ gffread -T In.gff3 -o Out.gtf
+    - For you, I worked above things and proivde genome ([link](saccharomyces_cerevisiae_R64-2-1_20150113.fasta) and GTF gene set ([link](saccharomyces_cerevisiae_R64-2-1_20150113.gtf)).
+    - Because this is a small genome, --genomeSAindexNbases value is good with 10, not default 12.
+    - I set --sjdbOverhang 49. Why? Check the manual of STAR and read length of the dataset.
+    - For you, I provide the index shell script ([link](STAR_index.sh))
+  - Mapping
+    - Using default options and parameters is OK. Check the slides or STAR manual.
+4. Quantificaiton (featureCounts)
   - Using default options and parameters is OK.
 5. Differential Expression analysis (DESeq2, input will be from both by Step 4)
   - I just want you to check the two groups (report any meaningful plot like PCA plot) and report differentially expressed genes by P-value (top 50)
   - [This kind of reference](https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2018/RNASeq2018/html/04_DE_analysis_with_DESeq2.nb.html) will be useful for you, but check the [DESeq2 guide](https://bioc.ism.ac.jp/packages/2.14/bioc/vignettes/DESeq2/inst/doc/beginner.pdf) for any further analysis as you want.
 6. Your comments
+7. (Optional for +10 points) Run Salmon for quantification and reanlayze the differential expression using DESeq2. Provide the comparision results. 
 
 ### Important
 Run all Linux commands with shell to keep the commands. Then, provide the shell (or can copy/paste into your document)

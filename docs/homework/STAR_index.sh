@@ -1,0 +1,1 @@
+STAR --runMode genomeGenerate --genomeDir ./star_indexes --genomeFastaFiles ./S288C_reference_genome_R64-2-1_20150113/saccharomyces_cerevisiae_R64-2-1_20150113.fasta --runThreadN 8 --sjdbGTFfile ./S288C_reference_genome_R64-2-1_20150113/saccharomyces_cerevisiae_R64-2-1_20150113.gtf --sjdbOverhang 49 --genomeSAindexNbases 10
