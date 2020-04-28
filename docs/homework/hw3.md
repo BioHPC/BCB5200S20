@@ -37,7 +37,7 @@ I emailed you about the error and details. Belows are just compact steps for you
 10. You will be asked to Proceed ([y]/n) to install many packages. Click y and enter.
 11. Install MetaPhlAn2 with a lower version (2.7.7) to work with the Humann2 without problem. Copy the database directly to avoid any issues by slow network.  
 `$ conda install -c bioconda metaphlan2=2.7.7`  
-`cp -$ /public/ahnt/courses/bcb5250/metagenomics_wgs_lab/metaphlan_databases ~/.conda/envs/bcb5250/bin/`
+`$ cp -R /public/ahnt/courses/bcb5250/metagenomics_wgs_lab/metaphlan_databases ~/.conda/envs/bcb5250/bin/`
 12. You will be asked to Proceed ([y]/n) to install many packages like previous. Click y and enter, then wait.
 13. Now, install Humann2 using pip, not conda as below:  
 `$ pip install humann2`
@@ -60,7 +60,7 @@ I emailed you about the error and details. Belows are just compact steps for you
 
 #### If you have software compatibility issues of above lab, you can alternatively run MetaPhlAn2 tutorial [(link)](https://bitbucket.org/biobakery/biobakery/wiki/metaphlan2). 
 
-The software is installed at ahnt@hopper:/public/ahnt/courses/bcb5250/metagenomics_wgs_lab/metaphlan2/. So add the path into your .bashrc file. You can also install it by yourself if you want.
+Install the metaphlan2 by following above steps 1~12. 
 
 #### Requirements
 - I request you to run only "Create taxonomic profiles" to get "merged_abundance_table.txt". 
