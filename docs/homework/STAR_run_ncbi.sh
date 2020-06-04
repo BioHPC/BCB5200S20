@@ -1,1 +1,0 @@
-STAR --genomeDir star_indexes_ncbi --runThreadN 12 --readFilesIn SRR1066657.fastq --outFileNamePrefix star_align_ncbi/SRR1066657 --outSAMtype BAM SortedByCoordinate --outSAMunmapped Within --outSAMattributes Standard --limitBAMsortRAM 50000000000
